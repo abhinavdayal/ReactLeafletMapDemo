@@ -1,0 +1,5122 @@
+[
+  {
+    "dist": "Alirajpur",
+    "litrate": 36.1,
+    "sexratio": 1011,
+    "area": 3182,
+    "popdensity": 229,
+    "workpoprate": 50.32
+  },
+  {
+    "dist": "Bijapur",
+    "litrate": 40.86,
+    "sexratio": 984,
+    "area": 8530,
+    "popdensity": 30,
+    "workpoprate": 52.71
+  },
+  {
+    "dist": "Dakshin Bastar Dantewada",
+    "litrate": 42.12,
+    "sexratio": 1020,
+    "area": 8298,
+    "popdensity": 64,
+    "workpoprate": 53.71
+  },
+  {
+    "dist": "Jhabua",
+    "litrate": 43.3,
+    "sexratio": 990,
+    "area": 3600,
+    "popdensity": 285,
+    "workpoprate": 50.25
+  },
+  {
+    "dist": "Nabarangapur",
+    "litrate": 46.43,
+    "sexratio": 1019,
+    "area": 5291,
+    "popdensity": 231,
+    "workpoprate": 50.04
+  },
+  {
+    "dist": "Shrawasti",
+    "litrate": 46.74,
+    "sexratio": 881,
+    "area": 1640,
+    "popdensity": 681,
+    "workpoprate": 36.13
+  },
+  {
+    "dist": "Malkangiri",
+    "litrate": 48.54,
+    "sexratio": 1020,
+    "area": 5791,
+    "popdensity": 106,
+    "workpoprate": 50.66
+  },
+  {
+    "dist": "Narayanpur",
+    "litrate": 48.62,
+    "sexratio": 994,
+    "area": 4653,
+    "popdensity": 30,
+    "workpoprate": 50.84
+  },
+  {
+    "dist": "Kurung Kumey",
+    "litrate": 48.75,
+    "sexratio": 1032,
+    "area": 6040,
+    "popdensity": 15,
+    "workpoprate": 41.32
+  },
+  {
+    "dist": "Pakur",
+    "litrate": 48.82,
+    "sexratio": 989,
+    "area": 1811,
+    "popdensity": 497,
+    "workpoprate": 44.93
+  },
+  {
+    "dist": "Barwani",
+    "litrate": 49.08,
+    "sexratio": 982,
+    "area": 5427,
+    "popdensity": 255,
+    "workpoprate": 47.18
+  },
+  {
+    "dist": "Koraput",
+    "litrate": 49.21,
+    "sexratio": 1032,
+    "area": 8807,
+    "popdensity": 157,
+    "workpoprate": 50.26
+  },
+  {
+    "dist": "Bahraich",
+    "litrate": 49.36,
+    "sexratio": 892,
+    "area": 5237,
+    "popdensity": 666,
+    "workpoprate": 33.03
+  },
+  {
+    "dist": "Balrampur",
+    "litrate": 49.51,
+    "sexratio": 928,
+    "area": 3349,
+    "popdensity": 642,
+    "workpoprate": 35.38
+  },
+  {
+    "dist": "Rayagada",
+    "litrate": 49.76,
+    "sexratio": 1051,
+    "area": 7073,
+    "popdensity": 137,
+    "workpoprate": 48.26
+  },
+  {
+    "dist": "Purnia",
+    "litrate": 51.08,
+    "sexratio": 921,
+    "area": 3229,
+    "popdensity": 1011,
+    "workpoprate": 35.02
+  },
+  {
+    "dist": "Budaun",
+    "litrate": 51.29,
+    "sexratio": 871,
+    "area": 5168,
+    "popdensity": 712,
+    "workpoprate": 30.08
+  },
+  {
+    "dist": "Yadgir",
+    "litrate": 51.83,
+    "sexratio": 989,
+    "area": 5270,
+    "popdensity": 223,
+    "workpoprate": 46.64
+  },
+  {
+    "dist": "Sahibganj",
+    "litrate": 52.04,
+    "sexratio": 952,
+    "area": 2063,
+    "popdensity": 558,
+    "workpoprate": 42.61
+  },
+  {
+    "dist": "Sitamarhi",
+    "litrate": 52.05,
+    "sexratio": 899,
+    "area": 2294,
+    "popdensity": 1492,
+    "workpoprate": 32.56
+  },
+  {
+    "dist": "Tirap",
+    "litrate": 52.19,
+    "sexratio": 944,
+    "area": 2362,
+    "popdensity": 47,
+    "workpoprate": 44.8
+  },
+  {
+    "dist": "Katihar",
+    "litrate": 52.24,
+    "sexratio": 919,
+    "area": 3057,
+    "popdensity": 1005,
+    "workpoprate": 33
+  },
+  {
+    "dist": "Madhepura",
+    "litrate": 52.25,
+    "sexratio": 911,
+    "area": 1788,
+    "popdensity": 1120,
+    "workpoprate": 38.84
+  },
+  {
+    "dist": "Saharsa",
+    "litrate": 53.2,
+    "sexratio": 906,
+    "area": 1687,
+    "popdensity": 1127,
+    "workpoprate": 34.19
+  },
+  {
+    "dist": "Rampur",
+    "litrate": 53.34,
+    "sexratio": 909,
+    "area": 2367,
+    "popdensity": 987,
+    "workpoprate": 31.56
+  },
+  {
+    "dist": "Gajapati",
+    "litrate": 53.49,
+    "sexratio": 1043,
+    "area": 4325,
+    "popdensity": 134,
+    "workpoprate": 50.87
+  },
+  {
+    "dist": "Araria",
+    "litrate": 53.53,
+    "sexratio": 921,
+    "area": 2830,
+    "popdensity": 993,
+    "workpoprate": 38.05
+  },
+  {
+    "dist": "Sheohar",
+    "litrate": 53.78,
+    "sexratio": 893,
+    "area": 349,
+    "popdensity": 1880,
+    "workpoprate": 32.97
+  },
+  {
+    "dist": "Mewat",
+    "litrate": 54.08,
+    "sexratio": 907,
+    "area": 1507,
+    "popdensity": 723,
+    "workpoprate": 26.62
+  },
+  {
+    "dist": "Ramban",
+    "litrate": 54.27,
+    "sexratio": 902,
+    "area": 1329,
+    "popdensity": 213,
+    "workpoprate": 30.74
+  },
+  {
+    "dist": "Bastar",
+    "litrate": 54.4,
+    "sexratio": 1023,
+    "area": 10470,
+    "popdensity": 135,
+    "workpoprate": 51.41
+  },
+  {
+    "dist": "Jalor",
+    "litrate": 54.86,
+    "sexratio": 952,
+    "area": 10640,
+    "popdensity": 172,
+    "workpoprate": 49.03
+  },
+  {
+    "dist": "Mahbubnagar",
+    "litrate": 55.04,
+    "sexratio": 977,
+    "area": 18432,
+    "popdensity": 220,
+    "workpoprate": 51.38
+  },
+  {
+    "dist": "Sirohi",
+    "litrate": 55.25,
+    "sexratio": 940,
+    "area": 5136,
+    "popdensity": 202,
+    "workpoprate": 40.51
+  },
+  {
+    "dist": "Kishanganj",
+    "litrate": 55.46,
+    "sexratio": 950,
+    "area": 1884,
+    "popdensity": 897,
+    "workpoprate": 31.3
+  },
+  {
+    "dist": "Pashchim Champaran",
+    "litrate": 55.7,
+    "sexratio": 909,
+    "area": 5228,
+    "popdensity": 753,
+    "workpoprate": 37.58
+  },
+  {
+    "dist": "Purba Champaran",
+    "litrate": 55.79,
+    "sexratio": 902,
+    "area": 3968,
+    "popdensity": 1285,
+    "workpoprate": 34.07
+  },
+  {
+    "dist": "Pratapgarh",
+    "litrate": 55.97,
+    "sexratio": 983,
+    "area": 4449,
+    "popdensity": 195,
+    "workpoprate": 55.46
+  },
+  {
+    "dist": "Badgam",
+    "litrate": 56.08,
+    "sexratio": 894,
+    "area": 1361,
+    "popdensity": 554,
+    "workpoprate": 28.51
+  },
+  {
+    "dist": "Kishtwar",
+    "litrate": 56.2,
+    "sexratio": 920,
+    "area": 1644,
+    "popdensity": 140,
+    "workpoprate": 35.97
+  },
+  {
+    "dist": "Bandipore",
+    "litrate": 56.28,
+    "sexratio": 889,
+    "area": 345,
+    "popdensity": 1137,
+    "workpoprate": 38.07
+  },
+  {
+    "dist": "Banswara",
+    "litrate": 56.33,
+    "sexratio": 980,
+    "area": 4522,
+    "popdensity": 397,
+    "workpoprate": 50.99
+  },
+  {
+    "dist": "Godda",
+    "litrate": 56.4,
+    "sexratio": 938,
+    "area": 2266,
+    "popdensity": 580,
+    "workpoprate": 42.04
+  },
+  {
+    "dist": "Anjaw",
+    "litrate": 56.46,
+    "sexratio": 839,
+    "area": 6190,
+    "popdensity": 3,
+    "workpoprate": 49.61
+  },
+  {
+    "dist": "Barmer",
+    "litrate": 56.53,
+    "sexratio": 902,
+    "area": 28387,
+    "popdensity": 92,
+    "workpoprate": 46.18
+  },
+  {
+    "dist": "Darbhanga",
+    "litrate": 56.56,
+    "sexratio": 911,
+    "area": 2279,
+    "popdensity": 1728,
+    "workpoprate": 31.08
+  },
+  {
+    "dist": "Moradabad",
+    "litrate": 56.77,
+    "sexratio": 906,
+    "area": 3718,
+    "popdensity": 1283,
+    "workpoprate": 29.71
+  },
+  {
+    "dist": "Mon",
+    "litrate": 56.99,
+    "sexratio": 899,
+    "area": 1786,
+    "popdensity": 140,
+    "workpoprate": 59
+  },
+  {
+    "dist": "Jaisalmer",
+    "litrate": 57.22,
+    "sexratio": 852,
+    "area": 38401,
+    "popdensity": 17,
+    "workpoprate": 43.13
+  },
+  {
+    "dist": "Nuapada",
+    "litrate": 57.35,
+    "sexratio": 1021,
+    "area": 3852,
+    "popdensity": 158,
+    "workpoprate": 50.04
+  },
+  {
+    "dist": "Sheopur",
+    "litrate": 57.43,
+    "sexratio": 901,
+    "area": 6606,
+    "popdensity": 104,
+    "workpoprate": 40.34
+  },
+  {
+    "dist": "Supaul",
+    "litrate": 57.67,
+    "sexratio": 929,
+    "area": 2425,
+    "popdensity": 919,
+    "workpoprate": 39.37
+  },
+  {
+    "dist": "Khagaria",
+    "litrate": 57.92,
+    "sexratio": 886,
+    "area": 1486,
+    "popdensity": 1122,
+    "workpoprate": 33.64
+  },
+  {
+    "dist": "Ganderbal",
+    "litrate": 58.04,
+    "sexratio": 874,
+    "area": 259,
+    "popdensity": 1148,
+    "workpoprate": 33.92
+  },
+  {
+    "dist": "Reasi",
+    "litrate": 58.15,
+    "sexratio": 890,
+    "area": 1719,
+    "popdensity": 183,
+    "workpoprate": 46.01
+  },
+  {
+    "dist": "Banka",
+    "litrate": 58.17,
+    "sexratio": 907,
+    "area": 3020,
+    "popdensity": 674,
+    "workpoprate": 37.9
+  },
+  {
+    "dist": "Dhubri",
+    "litrate": 58.34,
+    "sexratio": 953,
+    "area": 2176,
+    "popdensity": 896,
+    "workpoprate": 34.36
+  },
+  {
+    "dist": "Bareilly",
+    "litrate": 58.49,
+    "sexratio": 887,
+    "area": 4120,
+    "popdensity": 1080,
+    "workpoprate": 31.52
+  },
+  {
+    "dist": "Madhubani",
+    "litrate": 58.62,
+    "sexratio": 926,
+    "area": 3501,
+    "popdensity": 1282,
+    "workpoprate": 36.48
+  },
+  {
+    "dist": "Pashchimi Singhbhum",
+    "litrate": 58.63,
+    "sexratio": 1005,
+    "area": 7224,
+    "popdensity": 208,
+    "workpoprate": 46.25
+  },
+  {
+    "dist": "Gonda",
+    "litrate": 58.71,
+    "sexratio": 921,
+    "area": 4003,
+    "popdensity": 858,
+    "workpoprate": 34.09
+  },
+  {
+    "dist": "Dohad",
+    "litrate": 58.82,
+    "sexratio": 990,
+    "area": 3642,
+    "popdensity": 584,
+    "workpoprate": 46.97
+  },
+  {
+    "dist": "Vizianagaram",
+    "litrate": 58.89,
+    "sexratio": 1019,
+    "area": 6539,
+    "popdensity": 359,
+    "workpoprate": 49.39
+  },
+  {
+    "dist": "Dhar",
+    "litrate": 59,
+    "sexratio": 964,
+    "area": 8153,
+    "popdensity": 268,
+    "workpoprate": 47.03
+  },
+  {
+    "dist": "Tawang",
+    "litrate": 59,
+    "sexratio": 714,
+    "area": 2172,
+    "popdensity": 23,
+    "workpoprate": 57.15
+  },
+  {
+    "dist": "Uttar Dinajpur",
+    "litrate": 59.07,
+    "sexratio": 939,
+    "area": 3140,
+    "popdensity": 958,
+    "workpoprate": 35.77
+  },
+  {
+    "dist": "Kalahandi",
+    "litrate": 59.22,
+    "sexratio": 1003,
+    "area": 7920,
+    "popdensity": 199,
+    "workpoprate": 47.69
+  },
+  {
+    "dist": "Kulgam",
+    "litrate": 59.23,
+    "sexratio": 951,
+    "area": 410,
+    "popdensity": 1035,
+    "workpoprate": 37.69
+  },
+  {
+    "dist": "Siddharth nagar",
+    "litrate": 59.25,
+    "sexratio": 976,
+    "area": 2895,
+    "popdensity": 884,
+    "workpoprate": 34.34
+  },
+  {
+    "dist": "Dungarpur",
+    "litrate": 59.46,
+    "sexratio": 994,
+    "area": 3770,
+    "popdensity": 368,
+    "workpoprate": 46.2
+  },
+  {
+    "dist": "Latehar",
+    "litrate": 59.51,
+    "sexratio": 967,
+    "area": 4291,
+    "popdensity": 169,
+    "workpoprate": 43.11
+  },
+  {
+    "dist": "Shahjahanpur",
+    "litrate": 59.54,
+    "sexratio": 872,
+    "area": 4388,
+    "popdensity": 685,
+    "workpoprate": 29.68
+  },
+  {
+    "dist": "Raichur",
+    "litrate": 59.56,
+    "sexratio": 1000,
+    "area": 8442,
+    "popdensity": 228,
+    "workpoprate": 46.84
+  },
+  {
+    "dist": "Nawada",
+    "litrate": 59.76,
+    "sexratio": 939,
+    "area": 2494,
+    "popdensity": 890,
+    "workpoprate": 36.82
+  },
+  {
+    "dist": "Jamui",
+    "litrate": 59.79,
+    "sexratio": 922,
+    "area": 3098,
+    "popdensity": 568,
+    "workpoprate": 41.33
+  },
+  {
+    "dist": "Changlang",
+    "litrate": 59.8,
+    "sexratio": 926,
+    "area": 4662,
+    "popdensity": 32,
+    "workpoprate": 42.48
+  },
+  {
+    "dist": "Kurnool",
+    "litrate": 59.97,
+    "sexratio": 988,
+    "area": 17658,
+    "popdensity": 230,
+    "workpoprate": 50.07
+  },
+  {
+    "dist": "Upper Siang",
+    "litrate": 59.99,
+    "sexratio": 889,
+    "area": 6590,
+    "popdensity": 5,
+    "workpoprate": 49.95
+  },
+  {
+    "dist": "Surguja",
+    "litrate": 60.01,
+    "sexratio": 978,
+    "area": 15732,
+    "popdensity": 150,
+    "workpoprate": 48.98
+  },
+  {
+    "dist": "East Kameng",
+    "litrate": 60.02,
+    "sexratio": 1029,
+    "area": 4134,
+    "popdensity": 19,
+    "workpoprate": 40.3
+  },
+  {
+    "dist": "Chatra",
+    "litrate": 60.18,
+    "sexratio": 953,
+    "area": 3718,
+    "popdensity": 280,
+    "workpoprate": 38.13
+  },
+  {
+    "dist": "Garhwa",
+    "litrate": 60.33,
+    "sexratio": 935,
+    "area": 4093,
+    "popdensity": 323,
+    "workpoprate": 43.2
+  },
+  {
+    "dist": "Singrauli",
+    "litrate": 60.41,
+    "sexratio": 920,
+    "area": 5675,
+    "popdensity": 208,
+    "workpoprate": 42.39
+  },
+  {
+    "dist": "Kheri",
+    "litrate": 60.56,
+    "sexratio": 894,
+    "area": 7680,
+    "popdensity": 524,
+    "workpoprate": 31.45
+  },
+  {
+    "dist": "Shupiyan",
+    "litrate": 60.76,
+    "sexratio": 951,
+    "area": 312,
+    "popdensity": 853,
+    "workpoprate": 32.95
+  },
+  {
+    "dist": "Kabeerdham",
+    "litrate": 60.85,
+    "sexratio": 996,
+    "area": 4235,
+    "popdensity": 194,
+    "workpoprate": 49.14
+  },
+  {
+    "dist": "Adilabad",
+    "litrate": 61.01,
+    "sexratio": 1001,
+    "area": 16105,
+    "popdensity": 170,
+    "workpoprate": 48.29
+  },
+  {
+    "dist": "Dumka",
+    "litrate": 61.02,
+    "sexratio": 977,
+    "area": 3761,
+    "popdensity": 351,
+    "workpoprate": 47.28
+  },
+  {
+    "dist": "Kansiram Nagar",
+    "litrate": 61.02,
+    "sexratio": 880,
+    "area": 1955,
+    "popdensity": 735,
+    "workpoprate": 32.91
+  },
+  {
+    "dist": "Sitapur",
+    "litrate": 61.12,
+    "sexratio": 888,
+    "area": 5743,
+    "popdensity": 781,
+    "workpoprate": 31.73
+  },
+  {
+    "dist": "Rajgarh",
+    "litrate": 61.21,
+    "sexratio": 956,
+    "area": 6153,
+    "popdensity": 251,
+    "workpoprate": 48.23
+  },
+  {
+    "dist": "Nizamabad",
+    "litrate": 61.25,
+    "sexratio": 1040,
+    "area": 7956,
+    "popdensity": 321,
+    "workpoprate": 49.43
+  },
+  {
+    "dist": "Kaushambi",
+    "litrate": 61.28,
+    "sexratio": 908,
+    "area": 1779,
+    "popdensity": 899,
+    "workpoprate": 39.95
+  },
+  {
+    "dist": "Bhilwara",
+    "litrate": 61.37,
+    "sexratio": 973,
+    "area": 10455,
+    "popdensity": 230,
+    "workpoprate": 47.67
+  },
+  {
+    "dist": "Medak",
+    "litrate": 61.42,
+    "sexratio": 992,
+    "area": 9699,
+    "popdensity": 313,
+    "workpoprate": 47.55
+  },
+  {
+    "dist": "Chamrajnagar",
+    "litrate": 61.43,
+    "sexratio": 993,
+    "area": 5648,
+    "popdensity": 181,
+    "workpoprate": 47.19
+  },
+  {
+    "dist": "Tikamgarh",
+    "litrate": 61.43,
+    "sexratio": 901,
+    "area": 5048,
+    "popdensity": 286,
+    "workpoprate": 45.35
+  },
+  {
+    "dist": "Pilibhit",
+    "litrate": 61.47,
+    "sexratio": 895,
+    "area": 3686,
+    "popdensity": 551,
+    "workpoprate": 30.46
+  },
+  {
+    "dist": "Jhalawar",
+    "litrate": 61.5,
+    "sexratio": 946,
+    "area": 6219,
+    "popdensity": 227,
+    "workpoprate": 48.61
+  },
+  {
+    "dist": "Bundi",
+    "litrate": 61.52,
+    "sexratio": 925,
+    "area": 5776,
+    "popdensity": 192,
+    "workpoprate": 47.36
+  },
+  {
+    "dist": "Tonk",
+    "litrate": 61.58,
+    "sexratio": 952,
+    "area": 7194,
+    "popdensity": 198,
+    "workpoprate": 45.67
+  },
+  {
+    "dist": "Jaintia Hills",
+    "litrate": 61.64,
+    "sexratio": 1013,
+    "area": 3819,
+    "popdensity": 103,
+    "workpoprate": 39.02
+  },
+  {
+    "dist": "Chittaurgarh",
+    "litrate": 61.71,
+    "sexratio": 972,
+    "area": 7822,
+    "popdensity": 197,
+    "workpoprate": 51.98
+  },
+  {
+    "dist": "Maldah",
+    "litrate": 61.73,
+    "sexratio": 944,
+    "area": 3733,
+    "popdensity": 1069,
+    "workpoprate": 38.55
+  },
+  {
+    "dist": "Srikakulam",
+    "litrate": 61.74,
+    "sexratio": 1015,
+    "area": 5837,
+    "popdensity": 463,
+    "workpoprate": 47.73
+  },
+  {
+    "dist": "Bara Banki",
+    "litrate": 61.75,
+    "sexratio": 910,
+    "area": 4402,
+    "popdensity": 741,
+    "workpoprate": 36.58
+  },
+  {
+    "dist": "Udaipur",
+    "litrate": 61.82,
+    "sexratio": 958,
+    "area": 11724,
+    "popdensity": 262,
+    "workpoprate": 44.51
+  },
+  {
+    "dist": "Mansa",
+    "litrate": 61.83,
+    "sexratio": 883,
+    "area": 2198,
+    "popdensity": 350,
+    "workpoprate": 42.68
+  },
+  {
+    "dist": "Samastipur",
+    "litrate": 61.86,
+    "sexratio": 911,
+    "area": 2904,
+    "popdensity": 1467,
+    "workpoprate": 31.52
+  },
+  {
+    "dist": "Pali",
+    "litrate": 62.39,
+    "sexratio": 987,
+    "area": 12387,
+    "popdensity": 164,
+    "workpoprate": 41.34
+  },
+  {
+    "dist": "Lakhisarai",
+    "litrate": 62.42,
+    "sexratio": 902,
+    "area": 1228,
+    "popdensity": 815,
+    "workpoprate": 32.63
+  },
+  {
+    "dist": "Shivpuri",
+    "litrate": 62.55,
+    "sexratio": 877,
+    "area": 10066,
+    "popdensity": 171,
+    "workpoprate": 43.99
+  },
+  {
+    "dist": "Anantnag",
+    "litrate": 62.69,
+    "sexratio": 927,
+    "area": 3574,
+    "popdensity": 302,
+    "workpoprate": 36.13
+  },
+  {
+    "dist": "West Nimar",
+    "litrate": 62.7,
+    "sexratio": 965,
+    "area": 8025,
+    "popdensity": 233,
+    "workpoprate": 47.74
+  },
+  {
+    "dist": "Maharajganj",
+    "litrate": 62.76,
+    "sexratio": 943,
+    "area": 2952,
+    "popdensity": 909,
+    "workpoprate": 37.03
+  },
+  {
+    "dist": "Nagaur",
+    "litrate": 62.8,
+    "sexratio": 950,
+    "area": 17718,
+    "popdensity": 187,
+    "workpoprate": 43.11
+  },
+  {
+    "dist": "Darrang",
+    "litrate": 63.08,
+    "sexratio": 954,
+    "area": 1585,
+    "popdensity": 586,
+    "workpoprate": 34.99
+  },
+  {
+    "dist": "Prakasam",
+    "litrate": 63.08,
+    "sexratio": 981,
+    "area": 17626,
+    "popdensity": 193,
+    "workpoprate": 50.05
+  },
+  {
+    "dist": "Bhagalpur",
+    "litrate": 63.14,
+    "sexratio": 880,
+    "area": 2569,
+    "popdensity": 1182,
+    "workpoprate": 32.38
+  },
+  {
+    "dist": "Giridih",
+    "litrate": 63.14,
+    "sexratio": 944,
+    "area": 4962,
+    "popdensity": 493,
+    "workpoprate": 42.38
+  },
+  {
+    "dist": "Rajsamand",
+    "litrate": 63.14,
+    "sexratio": 990,
+    "area": 4655,
+    "popdensity": 248,
+    "workpoprate": 47.63
+  },
+  {
+    "dist": "Mayurbhanj",
+    "litrate": 63.17,
+    "sexratio": 1006,
+    "area": 10418,
+    "popdensity": 242,
+    "workpoprate": 48.56
+  },
+  {
+    "dist": "Guna",
+    "litrate": 63.23,
+    "sexratio": 912,
+    "area": 6390,
+    "popdensity": 194,
+    "workpoprate": 41.47
+  },
+  {
+    "dist": "Muzaffarpur",
+    "litrate": 63.43,
+    "sexratio": 900,
+    "area": 3172,
+    "popdensity": 1514,
+    "workpoprate": 32.23
+  },
+  {
+    "dist": "Pulwama",
+    "litrate": 63.48,
+    "sexratio": 912,
+    "area": 1086,
+    "popdensity": 516,
+    "workpoprate": 33.62
+  },
+  {
+    "dist": "Lalitpur",
+    "litrate": 63.52,
+    "sexratio": 906,
+    "area": 5039,
+    "popdensity": 242,
+    "workpoprate": 41.2
+  },
+  {
+    "dist": "Chirang",
+    "litrate": 63.55,
+    "sexratio": 969,
+    "area": 1923,
+    "popdensity": 251,
+    "workpoprate": 40.21
+  },
+  {
+    "dist": "Anantapur",
+    "litrate": 63.57,
+    "sexratio": 977,
+    "area": 19130,
+    "popdensity": 213,
+    "workpoprate": 49.89
+  },
+  {
+    "dist": "Palamu",
+    "litrate": 63.63,
+    "sexratio": 928,
+    "area": 4393,
+    "popdensity": 442,
+    "workpoprate": 36.76
+  },
+  {
+    "dist": "Gaya",
+    "litrate": 63.67,
+    "sexratio": 937,
+    "area": 4976,
+    "popdensity": 883,
+    "workpoprate": 37.89
+  },
+  {
+    "dist": "Chhatarpur",
+    "litrate": 63.74,
+    "sexratio": 883,
+    "area": 8687,
+    "popdensity": 203,
+    "workpoprate": 42.66
+  },
+  {
+    "dist": "Upper Subansiri",
+    "litrate": 63.8,
+    "sexratio": 998,
+    "area": 7032,
+    "popdensity": 12,
+    "workpoprate": 39.99
+  },
+  {
+    "dist": "Barpeta",
+    "litrate": 63.81,
+    "sexratio": 953,
+    "area": 2282,
+    "popdensity": 742,
+    "workpoprate": 33.17
+  },
+  {
+    "dist": "Jyotiba Phule Nagar",
+    "litrate": 63.84,
+    "sexratio": 910,
+    "area": 2249,
+    "popdensity": 818,
+    "workpoprate": 32.56
+  },
+  {
+    "dist": "Khunti",
+    "litrate": 63.86,
+    "sexratio": 997,
+    "area": 2535,
+    "popdensity": 210,
+    "workpoprate": 48.88
+  },
+  {
+    "dist": "Sheikhpura",
+    "litrate": 63.86,
+    "sexratio": 930,
+    "area": 689,
+    "popdensity": 924,
+    "workpoprate": 35.3
+  },
+  {
+    "dist": "Begusarai",
+    "litrate": 63.87,
+    "sexratio": 895,
+    "area": 1918,
+    "popdensity": 1549,
+    "workpoprate": 31.58
+  },
+  {
+    "dist": "Dindori",
+    "litrate": 63.9,
+    "sexratio": 1002,
+    "area": 7470,
+    "popdensity": 94,
+    "workpoprate": 55.35
+  },
+  {
+    "dist": "Sonbhadra",
+    "litrate": 64.03,
+    "sexratio": 918,
+    "area": 6905,
+    "popdensity": 270,
+    "workpoprate": 39.21
+  },
+  {
+    "dist": "Dibang Valley",
+    "litrate": 64.1,
+    "sexratio": 813,
+    "area": 9129,
+    "popdensity": 1,
+    "workpoprate": 44.42
+  },
+  {
+    "dist": "Kandhamal",
+    "litrate": 64.13,
+    "sexratio": 1037,
+    "area": 8021,
+    "popdensity": 91,
+    "workpoprate": 48.47
+  },
+  {
+    "dist": "Karimnagar",
+    "litrate": 64.15,
+    "sexratio": 1008,
+    "area": 11823,
+    "popdensity": 319,
+    "workpoprate": 49.7
+  },
+  {
+    "dist": "Nalgonda",
+    "litrate": 64.2,
+    "sexratio": 983,
+    "area": 14240,
+    "popdensity": 245,
+    "workpoprate": 49.92
+  },
+  {
+    "dist": "Burhanpur",
+    "litrate": 64.36,
+    "sexratio": 951,
+    "area": 3427,
+    "popdensity": 221,
+    "workpoprate": 43.33
+  },
+  {
+    "dist": "Nandurbar",
+    "litrate": 64.38,
+    "sexratio": 978,
+    "area": 5955,
+    "popdensity": 277,
+    "workpoprate": 48.05
+  },
+  {
+    "dist": "Nalanda",
+    "litrate": 64.43,
+    "sexratio": 922,
+    "area": 2355,
+    "popdensity": 1222,
+    "workpoprate": 36.33
+  },
+  {
+    "dist": "Sidhi",
+    "litrate": 64.43,
+    "sexratio": 957,
+    "area": 4851,
+    "popdensity": 232,
+    "workpoprate": 40.97
+  },
+  {
+    "dist": "Puruliya",
+    "litrate": 64.48,
+    "sexratio": 957,
+    "area": 6259,
+    "popdensity": 468,
+    "workpoprate": 42.65
+  },
+  {
+    "dist": "Kupwara",
+    "litrate": 64.51,
+    "sexratio": 835,
+    "area": 2379,
+    "popdensity": 366,
+    "workpoprate": 26.32
+  },
+  {
+    "dist": "Hardoi",
+    "litrate": 64.57,
+    "sexratio": 868,
+    "area": 5986,
+    "popdensity": 684,
+    "workpoprate": 32.23
+  },
+  {
+    "dist": "Jamtara",
+    "litrate": 64.59,
+    "sexratio": 954,
+    "area": 1811,
+    "popdensity": 437,
+    "workpoprate": 41.29
+  },
+  {
+    "dist": "Baramula",
+    "litrate": 64.63,
+    "sexratio": 885,
+    "area": 4243,
+    "popdensity": 238,
+    "workpoprate": 30.18
+  },
+  {
+    "dist": "Doda",
+    "litrate": 64.68,
+    "sexratio": 919,
+    "area": 8912,
+    "popdensity": 46,
+    "workpoprate": 37.06
+  },
+  {
+    "dist": "Balangir",
+    "litrate": 64.72,
+    "sexratio": 987,
+    "area": 6575,
+    "popdensity": 251,
+    "workpoprate": 43.7
+  },
+  {
+    "dist": "Panna",
+    "litrate": 64.79,
+    "sexratio": 905,
+    "area": 7135,
+    "popdensity": 142,
+    "workpoprate": 42.5
+  },
+  {
+    "dist": "Khammam",
+    "litrate": 64.81,
+    "sexratio": 1011,
+    "area": 16029,
+    "popdensity": 175,
+    "workpoprate": 50.41
+  },
+  {
+    "dist": "Deoghar",
+    "litrate": 64.85,
+    "sexratio": 925,
+    "area": 2477,
+    "popdensity": 602,
+    "workpoprate": 36.96
+  },
+  {
+    "dist": "Gulbarga",
+    "litrate": 64.85,
+    "sexratio": 971,
+    "area": 10954,
+    "popdensity": 234,
+    "workpoprate": 42.36
+  },
+  {
+    "dist": "Chitrakoot",
+    "litrate": 65.05,
+    "sexratio": 879,
+    "area": 3216,
+    "popdensity": 308,
+    "workpoprate": 39.75
+  },
+  {
+    "dist": "Warangal",
+    "litrate": 65.11,
+    "sexratio": 997,
+    "area": 12846,
+    "popdensity": 273,
+    "workpoprate": 48.56
+  },
+  {
+    "dist": "Bikaner",
+    "litrate": 65.13,
+    "sexratio": 905,
+    "area": 30239,
+    "popdensity": 78,
+    "workpoprate": 41.72
+  },
+  {
+    "dist": "Kokrajhar",
+    "litrate": 65.22,
+    "sexratio": 959,
+    "area": 3296,
+    "popdensity": 269,
+    "workpoprate": 38.45
+  },
+  {
+    "dist": "Kushinagar",
+    "litrate": 65.25,
+    "sexratio": 961,
+    "area": 2905,
+    "popdensity": 1227,
+    "workpoprate": 31.34
+  },
+  {
+    "dist": "Mahoba",
+    "litrate": 65.27,
+    "sexratio": 878,
+    "area": 3144,
+    "popdensity": 279,
+    "workpoprate": 39.92
+  },
+  {
+    "dist": "Banas Kantha",
+    "litrate": 65.32,
+    "sexratio": 938,
+    "area": 10743,
+    "popdensity": 290,
+    "workpoprate": 40.01
+  },
+  {
+    "dist": "Sawai Madhopur",
+    "litrate": 65.39,
+    "sexratio": 897,
+    "area": 4498,
+    "popdensity": 297,
+    "workpoprate": 43.28
+  },
+  {
+    "dist": "Udalguri",
+    "litrate": 65.41,
+    "sexratio": 973,
+    "area": 2012,
+    "popdensity": 413,
+    "workpoprate": 41.49
+  },
+  {
+    "dist": "Gopalganj",
+    "litrate": 65.47,
+    "sexratio": 1021,
+    "area": 2033,
+    "popdensity": 1260,
+    "workpoprate": 28.42
+  },
+  {
+    "dist": "Gumla",
+    "litrate": 65.73,
+    "sexratio": 993,
+    "area": 5360,
+    "popdensity": 191,
+    "workpoprate": 47.55
+  },
+  {
+    "dist": "Muktsar",
+    "litrate": 65.81,
+    "sexratio": 896,
+    "area": 2593,
+    "popdensity": 348,
+    "workpoprate": 37.18
+  },
+  {
+    "dist": "Lawangtlai",
+    "litrate": 65.88,
+    "sexratio": 945,
+    "area": 2557,
+    "popdensity": 46,
+    "workpoprate": 38.65
+  },
+  {
+    "dist": "Umaria",
+    "litrate": 65.89,
+    "sexratio": 950,
+    "area": 4076,
+    "popdensity": 158,
+    "workpoprate": 44.93
+  },
+  {
+    "dist": "Jodhpur",
+    "litrate": 65.94,
+    "sexratio": 916,
+    "area": 22850,
+    "popdensity": 161,
+    "workpoprate": 40.4
+  },
+  {
+    "dist": "Saran (chhapra)",
+    "litrate": 65.96,
+    "sexratio": 954,
+    "area": 2641,
+    "popdensity": 1496,
+    "workpoprate": 26.32
+  },
+  {
+    "dist": "Karauli",
+    "litrate": 66.22,
+    "sexratio": 861,
+    "area": 5524,
+    "popdensity": 264,
+    "workpoprate": 43.12
+  },
+  {
+    "dist": "Unnao",
+    "litrate": 66.37,
+    "sexratio": 907,
+    "area": 4558,
+    "popdensity": 682,
+    "workpoprate": 36.18
+  },
+  {
+    "dist": "East Nimar",
+    "litrate": 66.39,
+    "sexratio": 943,
+    "area": 7352,
+    "popdensity": 178,
+    "workpoprate": 46.79
+  },
+  {
+    "dist": "Ashoknagar",
+    "litrate": 66.42,
+    "sexratio": 904,
+    "area": 4674,
+    "popdensity": 181,
+    "workpoprate": 37.31
+  },
+  {
+    "dist": "West Siang",
+    "litrate": 66.46,
+    "sexratio": 930,
+    "area": 8325,
+    "popdensity": 13,
+    "workpoprate": 43.8
+  },
+  {
+    "dist": "Murshidabad",
+    "litrate": 66.59,
+    "sexratio": 958,
+    "area": 5324,
+    "popdensity": 1334,
+    "workpoprate": 36.46
+  },
+  {
+    "dist": "Vaishali",
+    "litrate": 66.6,
+    "sexratio": 895,
+    "area": 2036,
+    "popdensity": 1717,
+    "workpoprate": 30.34
+  },
+  {
+    "dist": "Baran",
+    "litrate": 66.66,
+    "sexratio": 929,
+    "area": 6992,
+    "popdensity": 175,
+    "workpoprate": 45.19
+  },
+  {
+    "dist": "Banda",
+    "litrate": 66.67,
+    "sexratio": 863,
+    "area": 4408,
+    "popdensity": 408,
+    "workpoprate": 39
+  },
+  {
+    "dist": "Shahdol",
+    "litrate": 66.67,
+    "sexratio": 974,
+    "area": 6205,
+    "popdensity": 172,
+    "workpoprate": 46.25
+  },
+  {
+    "dist": "Sant Kabir Nagar",
+    "litrate": 66.72,
+    "sexratio": 972,
+    "area": 1646,
+    "popdensity": 1042,
+    "workpoprate": 31.45
+  },
+  {
+    "dist": "Punch",
+    "litrate": 66.74,
+    "sexratio": 893,
+    "area": 1674,
+    "popdensity": 285,
+    "workpoprate": 33.85
+  },
+  {
+    "dist": "Churu",
+    "litrate": 66.75,
+    "sexratio": 940,
+    "area": 13835,
+    "popdensity": 147,
+    "workpoprate": 44.27
+  },
+  {
+    "dist": "Ratlam",
+    "litrate": 66.78,
+    "sexratio": 971,
+    "area": 4861,
+    "popdensity": 299,
+    "workpoprate": 47.49
+  },
+  {
+    "dist": "Jehanabad",
+    "litrate": 66.8,
+    "sexratio": 922,
+    "area": 931,
+    "popdensity": 1209,
+    "workpoprate": 32.47
+  },
+  {
+    "dist": "Kodarma",
+    "litrate": 66.84,
+    "sexratio": 950,
+    "area": 2540,
+    "popdensity": 282,
+    "workpoprate": 35.94
+  },
+  {
+    "dist": "Mandla",
+    "litrate": 66.87,
+    "sexratio": 1008,
+    "area": 5800,
+    "popdensity": 182,
+    "workpoprate": 53.05
+  },
+  {
+    "dist": "Visakhapatnam",
+    "litrate": 66.91,
+    "sexratio": 1006,
+    "area": 11161,
+    "popdensity": 384,
+    "workpoprate": 44.05
+  },
+  {
+    "dist": "West Kameng",
+    "litrate": 67.07,
+    "sexratio": 819,
+    "area": 7422,
+    "popdensity": 11,
+    "workpoprate": 50.62
+  },
+  {
+    "dist": "Hanumangarh",
+    "litrate": 67.13,
+    "sexratio": 906,
+    "area": 9656,
+    "popdensity": 184,
+    "workpoprate": 47.07
+  },
+  {
+    "dist": "Bijapur",
+    "litrate": 67.15,
+    "sexratio": 960,
+    "area": 10498,
+    "popdensity": 207,
+    "workpoprate": 42.61
+  },
+  {
+    "dist": "Basti",
+    "litrate": 67.22,
+    "sexratio": 963,
+    "area": 2688,
+    "popdensity": 917,
+    "workpoprate": 31.8
+  },
+  {
+    "dist": "Rae Bareli",
+    "litrate": 67.25,
+    "sexratio": 943,
+    "area": 4609,
+    "popdensity": 739,
+    "workpoprate": 35.37
+  },
+  {
+    "dist": "Y.S.R.",
+    "litrate": 67.3,
+    "sexratio": 985,
+    "area": 15359,
+    "popdensity": 188,
+    "workpoprate": 45.81
+  },
+  {
+    "dist": "Sonitpur",
+    "litrate": 67.34,
+    "sexratio": 956,
+    "area": 5204,
+    "popdensity": 370,
+    "workpoprate": 40.05
+  },
+  {
+    "dist": "Goalpara",
+    "litrate": 67.37,
+    "sexratio": 964,
+    "area": 1824,
+    "popdensity": 553,
+    "workpoprate": 35.96
+  },
+  {
+    "dist": "Guntur",
+    "litrate": 67.4,
+    "sexratio": 1003,
+    "area": 11391,
+    "popdensity": 429,
+    "workpoprate": 48.73
+  },
+  {
+    "dist": "Arwal",
+    "litrate": 67.43,
+    "sexratio": 928,
+    "area": 638,
+    "popdensity": 1099,
+    "workpoprate": 33.72
+  },
+  {
+    "dist": "Bellary",
+    "litrate": 67.43,
+    "sexratio": 983,
+    "area": 8461,
+    "popdensity": 290,
+    "workpoprate": 45.54
+  },
+  {
+    "dist": "Fatehpur",
+    "litrate": 67.43,
+    "sexratio": 901,
+    "area": 4152,
+    "popdensity": 634,
+    "workpoprate": 40.41
+  },
+  {
+    "dist": "Aligarh",
+    "litrate": 67.52,
+    "sexratio": 882,
+    "area": 3650,
+    "popdensity": 1007,
+    "workpoprate": 31.97
+  },
+  {
+    "dist": "West Garo Hills",
+    "litrate": 67.58,
+    "sexratio": 984,
+    "area": 3677,
+    "popdensity": 175,
+    "workpoprate": 39.75
+  },
+  {
+    "dist": "Lohardaga",
+    "litrate": 67.61,
+    "sexratio": 985,
+    "area": 1502,
+    "popdensity": 307,
+    "workpoprate": 47.93
+  },
+  {
+    "dist": "Saraikela-Kharsawan",
+    "litrate": 67.7,
+    "sexratio": 956,
+    "area": 2657,
+    "popdensity": 401,
+    "workpoprate": 40.38
+  },
+  {
+    "dist": "Tarn Taran",
+    "litrate": 67.81,
+    "sexratio": 900,
+    "area": 2414,
+    "popdensity": 464,
+    "workpoprate": 34
+  },
+  {
+    "dist": "Barnala",
+    "litrate": 67.82,
+    "sexratio": 876,
+    "area": 1482,
+    "popdensity": 402,
+    "workpoprate": 35.15
+  },
+  {
+    "dist": "Anuppur",
+    "litrate": 67.88,
+    "sexratio": 976,
+    "area": 3747,
+    "popdensity": 200,
+    "workpoprate": 46.24
+  },
+  {
+    "dist": "Fatehabad",
+    "litrate": 67.92,
+    "sexratio": 902,
+    "area": 2538,
+    "popdensity": 371,
+    "workpoprate": 39.18
+  },
+  {
+    "dist": "Jashpur",
+    "litrate": 67.92,
+    "sexratio": 1005,
+    "area": 5838,
+    "popdensity": 146,
+    "workpoprate": 57.22
+  },
+  {
+    "dist": "Sangrur",
+    "litrate": 67.99,
+    "sexratio": 885,
+    "area": 3625,
+    "popdensity": 457,
+    "workpoprate": 34.36
+  },
+  {
+    "dist": "Simdega",
+    "litrate": 67.99,
+    "sexratio": 997,
+    "area": 3774,
+    "popdensity": 159,
+    "workpoprate": 48.14
+  },
+  {
+    "dist": "Marigaon",
+    "litrate": 68.03,
+    "sexratio": 967,
+    "area": 1551,
+    "popdensity": 617,
+    "workpoprate": 36.68
+  },
+  {
+    "dist": "Koppal",
+    "litrate": 68.09,
+    "sexratio": 986,
+    "area": 5570,
+    "popdensity": 250,
+    "workpoprate": 47.11
+  },
+  {
+    "dist": "Dausa",
+    "litrate": 68.16,
+    "sexratio": 905,
+    "area": 3432,
+    "popdensity": 476,
+    "workpoprate": 41.88
+  },
+  {
+    "dist": "Rajouri",
+    "litrate": 68.17,
+    "sexratio": 860,
+    "area": 2630,
+    "popdensity": 244,
+    "workpoprate": 45.28
+  },
+  {
+    "dist": "Lohit",
+    "litrate": 68.18,
+    "sexratio": 912,
+    "area": 5212,
+    "popdensity": 28,
+    "workpoprate": 41.82
+  },
+  {
+    "dist": "Kendujhar",
+    "litrate": 68.24,
+    "sexratio": 988,
+    "area": 8303,
+    "popdensity": 217,
+    "workpoprate": 42.54
+  },
+  {
+    "dist": "Tapi",
+    "litrate": 68.26,
+    "sexratio": 1007,
+    "area": 3139,
+    "popdensity": 257,
+    "workpoprate": 55.87
+  },
+  {
+    "dist": "Bathinda",
+    "litrate": 68.28,
+    "sexratio": 868,
+    "area": 3353,
+    "popdensity": 414,
+    "workpoprate": 39.61
+  },
+  {
+    "dist": "Bijnor",
+    "litrate": 68.48,
+    "sexratio": 917,
+    "area": 4561,
+    "popdensity": 807,
+    "workpoprate": 29.54
+  },
+  {
+    "dist": "Mirzapur",
+    "litrate": 68.48,
+    "sexratio": 903,
+    "area": 4405,
+    "popdensity": 567,
+    "workpoprate": 35.32
+  },
+  {
+    "dist": "Udhampur",
+    "litrate": 68.49,
+    "sexratio": 870,
+    "area": 2637,
+    "popdensity": 210,
+    "workpoprate": 43.91
+  },
+  {
+    "dist": "Dharmapuri",
+    "litrate": 68.54,
+    "sexratio": 946,
+    "area": 4497,
+    "popdensity": 335,
+    "workpoprate": 49.85
+  },
+  {
+    "dist": "Faizabad",
+    "litrate": 68.73,
+    "sexratio": 962,
+    "area": 2341,
+    "popdensity": 1056,
+    "workpoprate": 33.64
+  },
+  {
+    "dist": "Hamirpur",
+    "litrate": 68.77,
+    "sexratio": 861,
+    "area": 4021,
+    "popdensity": 275,
+    "workpoprate": 40.18
+  },
+  {
+    "dist": "Bagalkot",
+    "litrate": 68.82,
+    "sexratio": 989,
+    "area": 6552,
+    "popdensity": 288,
+    "workpoprate": 43.29
+  },
+  {
+    "dist": "Sirsa",
+    "litrate": 68.82,
+    "sexratio": 897,
+    "area": 4277,
+    "popdensity": 303,
+    "workpoprate": 38.76
+  },
+  {
+    "dist": "Bulandshahr",
+    "litrate": 68.88,
+    "sexratio": 896,
+    "area": 4512,
+    "popdensity": 776,
+    "workpoprate": 33.53
+  },
+  {
+    "dist": "Betul",
+    "litrate": 68.9,
+    "sexratio": 971,
+    "area": 10043,
+    "popdensity": 157,
+    "workpoprate": 49.96
+  },
+  {
+    "dist": "Sri Potti Sriramulu Nellore",
+    "litrate": 68.9,
+    "sexratio": 985,
+    "area": 13076,
+    "popdensity": 227,
+    "workpoprate": 44.36
+  },
+  {
+    "dist": "Firozpur",
+    "litrate": 68.92,
+    "sexratio": 893,
+    "area": 5305,
+    "popdensity": 382,
+    "workpoprate": 37.29
+  },
+  {
+    "dist": "Sant Ravi das Nagar(Bhadohi)",
+    "litrate": 68.97,
+    "sexratio": 955,
+    "area": 1015,
+    "popdensity": 1555,
+    "workpoprate": 29.82
+  },
+  {
+    "dist": "Farrukhabad",
+    "litrate": 69.04,
+    "sexratio": 874,
+    "area": 2181,
+    "popdensity": 864,
+    "workpoprate": 31.42
+  },
+  {
+    "dist": "Dhaulpur",
+    "litrate": 69.08,
+    "sexratio": 846,
+    "area": 3033,
+    "popdensity": 398,
+    "workpoprate": 43.37
+  },
+  {
+    "dist": "Shajapur",
+    "litrate": 69.09,
+    "sexratio": 938,
+    "area": 6195,
+    "popdensity": 244,
+    "workpoprate": 47.46
+  },
+  {
+    "dist": "Muzaffarnagar",
+    "litrate": 69.12,
+    "sexratio": 889,
+    "area": 4008,
+    "popdensity": 1034,
+    "workpoprate": 31.17
+  },
+  {
+    "dist": "Lower Dibang Valley",
+    "litrate": 69.13,
+    "sexratio": 928,
+    "area": 3900,
+    "popdensity": 14,
+    "workpoprate": 41.28
+  },
+  {
+    "dist": "Kaithal",
+    "litrate": 69.15,
+    "sexratio": 881,
+    "area": 2317,
+    "popdensity": 464,
+    "workpoprate": 34.8
+  },
+  {
+    "dist": "Ramanagara",
+    "litrate": 69.22,
+    "sexratio": 976,
+    "area": 3516,
+    "popdensity": 308,
+    "workpoprate": 49.09
+  },
+  {
+    "dist": "Baksa",
+    "litrate": 69.25,
+    "sexratio": 974,
+    "area": 2457,
+    "popdensity": 387,
+    "workpoprate": 42.81
+  },
+  {
+    "dist": "Karbi Anglong",
+    "litrate": 69.25,
+    "sexratio": 951,
+    "area": 10434,
+    "popdensity": 92,
+    "workpoprate": 40.1
+  },
+  {
+    "dist": "Sultanpur",
+    "litrate": 69.27,
+    "sexratio": 983,
+    "area": 4436,
+    "popdensity": 856,
+    "workpoprate": 32.73
+  },
+  {
+    "dist": "Palwal",
+    "litrate": 69.32,
+    "sexratio": 880,
+    "area": 1359,
+    "popdensity": 767,
+    "workpoprate": 29.69
+  },
+  {
+    "dist": "Ajmer",
+    "litrate": 69.33,
+    "sexratio": 951,
+    "area": 8481,
+    "popdensity": 305,
+    "workpoprate": 40.79
+  },
+  {
+    "dist": "Kaimur (Bhabua)",
+    "litrate": 69.34,
+    "sexratio": 920,
+    "area": 3332,
+    "popdensity": 488,
+    "workpoprate": 31.43
+  },
+  {
+    "dist": "Dewas",
+    "litrate": 69.35,
+    "sexratio": 942,
+    "area": 7020,
+    "popdensity": 223,
+    "workpoprate": 47.49
+  },
+  {
+    "dist": "Srinagar",
+    "litrate": 69.41,
+    "sexratio": 900,
+    "area": 1979,
+    "popdensity": 625,
+    "workpoprate": 32.92
+  },
+  {
+    "dist": "Siwan",
+    "litrate": 69.45,
+    "sexratio": 988,
+    "area": 2219,
+    "popdensity": 1501,
+    "workpoprate": 28
+  },
+  {
+    "dist": "Kiphire",
+    "litrate": 69.54,
+    "sexratio": 956,
+    "area": 1130,
+    "popdensity": 65,
+    "workpoprate": 43.19
+  },
+  {
+    "dist": "Faridkot",
+    "litrate": 69.55,
+    "sexratio": 890,
+    "area": 1458,
+    "popdensity": 424,
+    "workpoprate": 35.88
+  },
+  {
+    "dist": "Ganganagar",
+    "litrate": 69.64,
+    "sexratio": 887,
+    "area": 10978,
+    "popdensity": 179,
+    "workpoprate": 46.35
+  },
+  {
+    "dist": "Tinsukia",
+    "litrate": 69.66,
+    "sexratio": 952,
+    "area": 3790,
+    "popdensity": 350,
+    "workpoprate": 41.96
+  },
+  {
+    "dist": "Damoh",
+    "litrate": 69.73,
+    "sexratio": 910,
+    "area": 7306,
+    "popdensity": 173,
+    "workpoprate": 45.45
+  },
+  {
+    "dist": "Bongaigaon",
+    "litrate": 69.74,
+    "sexratio": 966,
+    "area": 1093,
+    "popdensity": 676,
+    "workpoprate": 34.62
+  },
+  {
+    "dist": "Hazaribagh",
+    "litrate": 69.75,
+    "sexratio": 947,
+    "area": 3555,
+    "popdensity": 488,
+    "workpoprate": 37.74
+  },
+  {
+    "dist": "Chikkaballapura",
+    "litrate": 69.76,
+    "sexratio": 972,
+    "area": 4244,
+    "popdensity": 296,
+    "workpoprate": 50.97
+  },
+  {
+    "dist": "Tamenglong",
+    "litrate": 70.05,
+    "sexratio": 943,
+    "area": 4391,
+    "popdensity": 32,
+    "workpoprate": 50.25
+  },
+  {
+    "dist": "Sehore",
+    "litrate": 70.06,
+    "sexratio": 918,
+    "area": 6578,
+    "popdensity": 199,
+    "workpoprate": 44.69
+  },
+  {
+    "dist": "Pratapgarh",
+    "litrate": 70.09,
+    "sexratio": 998,
+    "area": 3717,
+    "popdensity": 863,
+    "workpoprate": 33.24
+  },
+  {
+    "dist": "Bharatpur",
+    "litrate": 70.11,
+    "sexratio": 880,
+    "area": 5066,
+    "popdensity": 503,
+    "workpoprate": 42.03
+  },
+  {
+    "dist": "Buxar",
+    "litrate": 70.14,
+    "sexratio": 922,
+    "area": 1703,
+    "popdensity": 1002,
+    "workpoprate": 31.55
+  },
+  {
+    "dist": "Bankura",
+    "litrate": 70.26,
+    "sexratio": 957,
+    "area": 6882,
+    "popdensity": 523,
+    "workpoprate": 40.77
+  },
+  {
+    "dist": "Uttar Bastar Kanker",
+    "litrate": 70.29,
+    "sexratio": 1006,
+    "area": 7161,
+    "popdensity": 105,
+    "workpoprate": 51.99
+  },
+  {
+    "dist": "Aurangabad",
+    "litrate": 70.32,
+    "sexratio": 926,
+    "area": 3305,
+    "popdensity": 769,
+    "workpoprate": 32.98
+  },
+  {
+    "dist": "Mathura",
+    "litrate": 70.36,
+    "sexratio": 863,
+    "area": 3340,
+    "popdensity": 763,
+    "workpoprate": 33.01
+  },
+  {
+    "dist": "Mandya",
+    "litrate": 70.4,
+    "sexratio": 995,
+    "area": 4962,
+    "popdensity": 364,
+    "workpoprate": 48.26
+  },
+  {
+    "dist": "Munger",
+    "litrate": 70.46,
+    "sexratio": 876,
+    "area": 1419,
+    "popdensity": 964,
+    "workpoprate": 31.19
+  },
+  {
+    "dist": "Bhojpur",
+    "litrate": 70.47,
+    "sexratio": 907,
+    "area": 2395,
+    "popdensity": 1139,
+    "workpoprate": 30.15
+  },
+  {
+    "dist": "Saharanpur",
+    "litrate": 70.49,
+    "sexratio": 890,
+    "area": 3689,
+    "popdensity": 940,
+    "workpoprate": 29.93
+  },
+  {
+    "dist": "Bidar",
+    "litrate": 70.51,
+    "sexratio": 956,
+    "area": 5448,
+    "popdensity": 313,
+    "workpoprate": 41.25
+  },
+  {
+    "dist": "Vidisha",
+    "litrate": 70.53,
+    "sexratio": 896,
+    "area": 7371,
+    "popdensity": 198,
+    "workpoprate": 37.73
+  },
+  {
+    "dist": "Kachchh",
+    "litrate": 70.59,
+    "sexratio": 908,
+    "area": 45674,
+    "popdensity": 46,
+    "workpoprate": 37.1
+  },
+  {
+    "dist": "Koriya",
+    "litrate": 70.64,
+    "sexratio": 968,
+    "area": 6604,
+    "popdensity": 100,
+    "workpoprate": 46.6
+  },
+  {
+    "dist": "Birbhum",
+    "litrate": 70.68,
+    "sexratio": 956,
+    "area": 4545,
+    "popdensity": 771,
+    "workpoprate": 38.02
+  },
+  {
+    "dist": "Moga",
+    "litrate": 70.68,
+    "sexratio": 893,
+    "area": 2242,
+    "popdensity": 444,
+    "workpoprate": 36.07
+  },
+  {
+    "dist": "Patna",
+    "litrate": 70.68,
+    "sexratio": 897,
+    "area": 3202,
+    "popdensity": 1823,
+    "workpoprate": 32.23
+  },
+  {
+    "dist": "Alwar",
+    "litrate": 70.72,
+    "sexratio": 895,
+    "area": 8380,
+    "popdensity": 438,
+    "workpoprate": 46.5
+  },
+  {
+    "dist": "Bilaspur",
+    "litrate": 70.78,
+    "sexratio": 971,
+    "area": 8272,
+    "popdensity": 322,
+    "workpoprate": 45.17
+  },
+  {
+    "dist": "Neemuch",
+    "litrate": 70.8,
+    "sexratio": 954,
+    "area": 4256,
+    "popdensity": 194,
+    "workpoprate": 50.68
+  },
+  {
+    "dist": "Etah",
+    "litrate": 70.81,
+    "sexratio": 873,
+    "area": 2431,
+    "popdensity": 730,
+    "workpoprate": 30.77
+  },
+  {
+    "dist": "Gorakhpur",
+    "litrate": 70.83,
+    "sexratio": 950,
+    "area": 3321,
+    "popdensity": 1337,
+    "workpoprate": 30.44
+  },
+  {
+    "dist": "Azamgarh",
+    "litrate": 70.93,
+    "sexratio": 1019,
+    "area": 4054,
+    "popdensity": 1138,
+    "workpoprate": 29.74
+  },
+  {
+    "dist": "Ballia",
+    "litrate": 70.94,
+    "sexratio": 937,
+    "area": 2981,
+    "popdensity": 1087,
+    "workpoprate": 31.47
+  },
+  {
+    "dist": "East Godavari",
+    "litrate": 70.99,
+    "sexratio": 1006,
+    "area": 10807,
+    "popdensity": 477,
+    "workpoprate": 40.62
+  },
+  {
+    "dist": "Panch Mahals",
+    "litrate": 70.99,
+    "sexratio": 949,
+    "area": 5231,
+    "popdensity": 457,
+    "workpoprate": 45.91
+  },
+  {
+    "dist": "Mahasamund",
+    "litrate": 71.02,
+    "sexratio": 1017,
+    "area": 4790,
+    "popdensity": 216,
+    "workpoprate": 48.34
+  },
+  {
+    "dist": "Morena",
+    "litrate": 71.03,
+    "sexratio": 840,
+    "area": 4989,
+    "popdensity": 394,
+    "workpoprate": 34.38
+  },
+  {
+    "dist": "Ganjam",
+    "litrate": 71.09,
+    "sexratio": 983,
+    "area": 8206,
+    "popdensity": 430,
+    "workpoprate": 42.55
+  },
+  {
+    "dist": "Chandel",
+    "litrate": 71.11,
+    "sexratio": 933,
+    "area": 3313,
+    "popdensity": 44,
+    "workpoprate": 52.88
+  },
+  {
+    "dist": "Deoria",
+    "litrate": 71.13,
+    "sexratio": 1017,
+    "area": 2540,
+    "popdensity": 1221,
+    "workpoprate": 28.26
+  },
+  {
+    "dist": "Chhindwara",
+    "litrate": 71.16,
+    "sexratio": 964,
+    "area": 11815,
+    "popdensity": 177,
+    "workpoprate": 45.82
+  },
+  {
+    "dist": "Ariyalur",
+    "litrate": 71.34,
+    "sexratio": 1015,
+    "area": 1940,
+    "popdensity": 389,
+    "workpoprate": 47.67
+  },
+  {
+    "dist": "Kargil",
+    "litrate": 71.34,
+    "sexratio": 810,
+    "area": 14036,
+    "popdensity": 10,
+    "workpoprate": 36.84
+  },
+  {
+    "dist": "Jind",
+    "litrate": 71.44,
+    "sexratio": 871,
+    "area": 2702,
+    "popdensity": 494,
+    "workpoprate": 39.23
+  },
+  {
+    "dist": "Krishnagiri",
+    "litrate": 71.46,
+    "sexratio": 958,
+    "area": 5129,
+    "popdensity": 367,
+    "workpoprate": 46.7
+  },
+  {
+    "dist": "Chandauli",
+    "litrate": 71.48,
+    "sexratio": 918,
+    "area": 2541,
+    "popdensity": 768,
+    "workpoprate": 33.42
+  },
+  {
+    "dist": "Jalna",
+    "litrate": 71.52,
+    "sexratio": 937,
+    "area": 7718,
+    "popdensity": 254,
+    "workpoprate": 47.52
+  },
+  {
+    "dist": "Chittoor",
+    "litrate": 71.53,
+    "sexratio": 997,
+    "area": 15152,
+    "popdensity": 275,
+    "workpoprate": 46.32
+  },
+  {
+    "dist": "Jaunpur",
+    "litrate": 71.55,
+    "sexratio": 1024,
+    "area": 4038,
+    "popdensity": 1113,
+    "workpoprate": 31.98
+  },
+  {
+    "dist": "Agra",
+    "litrate": 71.58,
+    "sexratio": 868,
+    "area": 4041,
+    "popdensity": 1093,
+    "workpoprate": 31.45
+  },
+  {
+    "dist": "Mahamaya Nagar",
+    "litrate": 71.59,
+    "sexratio": 871,
+    "area": 1840,
+    "popdensity": 850,
+    "workpoprate": 30.94
+  },
+  {
+    "dist": "Bauda",
+    "litrate": 71.61,
+    "sexratio": 991,
+    "area": 3098,
+    "popdensity": 142,
+    "workpoprate": 49.75
+  },
+  {
+    "dist": "Rewa",
+    "litrate": 71.62,
+    "sexratio": 931,
+    "area": 6314,
+    "popdensity": 375,
+    "workpoprate": 41.94
+  },
+  {
+    "dist": "South Garo Hills",
+    "litrate": 71.72,
+    "sexratio": 945,
+    "area": 1887,
+    "popdensity": 75,
+    "workpoprate": 37.28
+  },
+  {
+    "dist": "Ghazipur",
+    "litrate": 71.78,
+    "sexratio": 952,
+    "area": 3377,
+    "popdensity": 1072,
+    "workpoprate": 33.27
+  },
+  {
+    "dist": "Mandsaur",
+    "litrate": 71.78,
+    "sexratio": 963,
+    "area": 5535,
+    "popdensity": 242,
+    "workpoprate": 50.71
+  },
+  {
+    "dist": "Viluppuram",
+    "litrate": 71.88,
+    "sexratio": 987,
+    "area": 7194,
+    "popdensity": 481,
+    "workpoprate": 49.24
+  },
+  {
+    "dist": "Sikar",
+    "litrate": 71.91,
+    "sexratio": 947,
+    "area": 7732,
+    "popdensity": 346,
+    "workpoprate": 37.59
+  },
+  {
+    "dist": "Firozabad",
+    "litrate": 71.92,
+    "sexratio": 875,
+    "area": 2407,
+    "popdensity": 1038,
+    "workpoprate": 30.48
+  },
+  {
+    "dist": "Katni",
+    "litrate": 71.98,
+    "sexratio": 952,
+    "area": 4950,
+    "popdensity": 261,
+    "workpoprate": 42.09
+  },
+  {
+    "dist": "Baghpat",
+    "litrate": 72.01,
+    "sexratio": 861,
+    "area": 1321,
+    "popdensity": 986,
+    "workpoprate": 31.98
+  },
+  {
+    "dist": "Bokaro",
+    "litrate": 72.01,
+    "sexratio": 922,
+    "area": 2883,
+    "popdensity": 715,
+    "workpoprate": 33.23
+  },
+  {
+    "dist": "Seoni",
+    "litrate": 72.12,
+    "sexratio": 982,
+    "area": 8758,
+    "popdensity": 157,
+    "workpoprate": 49.63
+  },
+  {
+    "dist": "Surendranagar",
+    "litrate": 72.13,
+    "sexratio": 930,
+    "area": 10423,
+    "popdensity": 168,
+    "workpoprate": 41.2
+  },
+  {
+    "dist": "Chamba",
+    "litrate": 72.17,
+    "sexratio": 986,
+    "area": 6522,
+    "popdensity": 80,
+    "workpoprate": 56.65
+  },
+  {
+    "dist": "Longleng",
+    "litrate": 72.17,
+    "sexratio": 905,
+    "area": 562,
+    "popdensity": 90,
+    "workpoprate": 60.55
+  },
+  {
+    "dist": "Ambedkar Nagar",
+    "litrate": 72.23,
+    "sexratio": 978,
+    "area": 2350,
+    "popdensity": 1020,
+    "workpoprate": 32.84
+  },
+  {
+    "dist": "Satna",
+    "litrate": 72.26,
+    "sexratio": 926,
+    "area": 7502,
+    "popdensity": 297,
+    "workpoprate": 40.89
+  },
+  {
+    "dist": "Patan",
+    "litrate": 72.3,
+    "sexratio": 935,
+    "area": 5792,
+    "popdensity": 232,
+    "workpoprate": 41.29
+  },
+  {
+    "dist": "Narmada",
+    "litrate": 72.31,
+    "sexratio": 961,
+    "area": 2817,
+    "popdensity": 210,
+    "workpoprate": 49.94
+  },
+  {
+    "dist": "Allahabad",
+    "litrate": 72.32,
+    "sexratio": 901,
+    "area": 5482,
+    "popdensity": 1086,
+    "workpoprate": 35.47
+  },
+  {
+    "dist": "Ujjain",
+    "litrate": 72.34,
+    "sexratio": 955,
+    "area": 6091,
+    "popdensity": 326,
+    "workpoprate": 45.17
+  },
+  {
+    "dist": "Korba",
+    "litrate": 72.37,
+    "sexratio": 969,
+    "area": 6598,
+    "popdensity": 183,
+    "workpoprate": 43.19
+  },
+  {
+    "dist": "Nagaon",
+    "litrate": 72.37,
+    "sexratio": 962,
+    "area": 3973,
+    "popdensity": 711,
+    "workpoprate": 34.71
+  },
+  {
+    "dist": "Harda",
+    "litrate": 72.5,
+    "sexratio": 935,
+    "area": 3334,
+    "popdensity": 171,
+    "workpoprate": 40.49
+  },
+  {
+    "dist": "East Siang",
+    "litrate": 72.54,
+    "sexratio": 980,
+    "area": 3603,
+    "popdensity": 28,
+    "workpoprate": 40.54
+  },
+  {
+    "dist": "Debagarh",
+    "litrate": 72.57,
+    "sexratio": 975,
+    "area": 2940,
+    "popdensity": 106,
+    "workpoprate": 52.94
+  },
+  {
+    "dist": "Erode",
+    "litrate": 72.58,
+    "sexratio": 993,
+    "area": 5760,
+    "popdensity": 391,
+    "workpoprate": 53.1
+  },
+  {
+    "dist": "Datia",
+    "litrate": 72.63,
+    "sexratio": 873,
+    "area": 2902,
+    "popdensity": 271,
+    "workpoprate": 40.82
+  },
+  {
+    "dist": "Dhemaji",
+    "litrate": 72.7,
+    "sexratio": 953,
+    "area": 3237,
+    "popdensity": 212,
+    "workpoprate": 46.17
+  },
+  {
+    "dist": "Kannauj",
+    "litrate": 72.7,
+    "sexratio": 879,
+    "area": 2093,
+    "popdensity": 792,
+    "workpoprate": 31.67
+  },
+  {
+    "dist": "Mysore",
+    "litrate": 72.79,
+    "sexratio": 985,
+    "area": 6307,
+    "popdensity": 476,
+    "workpoprate": 43.79
+  },
+  {
+    "dist": "Dhule",
+    "litrate": 72.8,
+    "sexratio": 946,
+    "area": 7195,
+    "popdensity": 285,
+    "workpoprate": 45.66
+  },
+  {
+    "dist": "Dakshin Dinajpur",
+    "litrate": 72.82,
+    "sexratio": 956,
+    "area": 2219,
+    "popdensity": 755,
+    "workpoprate": 41.94
+  },
+  {
+    "dist": "Meerut",
+    "litrate": 72.84,
+    "sexratio": 886,
+    "area": 2559,
+    "popdensity": 1346,
+    "workpoprate": 31.67
+  },
+  {
+    "dist": "Salem",
+    "litrate": 72.86,
+    "sexratio": 954,
+    "area": 5237,
+    "popdensity": 665,
+    "workpoprate": 48.65
+  },
+  {
+    "dist": "Hisar",
+    "litrate": 72.89,
+    "sexratio": 872,
+    "area": 3983,
+    "popdensity": 438,
+    "workpoprate": 39.66
+  },
+  {
+    "dist": "Raisen",
+    "litrate": 72.98,
+    "sexratio": 901,
+    "area": 8466,
+    "popdensity": 157,
+    "workpoprate": 38.89
+  },
+  {
+    "dist": "Janjgir-champa",
+    "litrate": 73.07,
+    "sexratio": 986,
+    "area": 3853,
+    "popdensity": 420,
+    "workpoprate": 52.26
+  },
+  {
+    "dist": "Tuensang",
+    "litrate": 73.08,
+    "sexratio": 929,
+    "area": 2536,
+    "popdensity": 78,
+    "workpoprate": 49.93
+  },
+  {
+    "dist": "Kathua",
+    "litrate": 73.09,
+    "sexratio": 890,
+    "area": 2502,
+    "popdensity": 246,
+    "workpoprate": 32.51
+  },
+  {
+    "dist": "Mau",
+    "litrate": 73.09,
+    "sexratio": 979,
+    "area": 1713,
+    "popdensity": 1288,
+    "workpoprate": 31.58
+  },
+  {
+    "dist": "Udham Singh Nagar",
+    "litrate": 73.1,
+    "sexratio": 920,
+    "area": 2542,
+    "popdensity": 649,
+    "workpoprate": 35.87
+  },
+  {
+    "dist": "Ramgarh",
+    "litrate": 73.17,
+    "sexratio": 921,
+    "area": 1341,
+    "popdensity": 708,
+    "workpoprate": 32.87
+  },
+  {
+    "dist": "Jalpaiguri",
+    "litrate": 73.25,
+    "sexratio": 953,
+    "area": 6227,
+    "popdensity": 622,
+    "workpoprate": 39.06
+  },
+  {
+    "dist": "Raigarh",
+    "litrate": 73.26,
+    "sexratio": 991,
+    "area": 7086,
+    "popdensity": 211,
+    "workpoprate": 46.2
+  },
+  {
+    "dist": "Parbhani",
+    "litrate": 73.34,
+    "sexratio": 947,
+    "area": 6214,
+    "popdensity": 295,
+    "workpoprate": 44.81
+  },
+  {
+    "dist": "Sundargarh",
+    "litrate": 73.34,
+    "sexratio": 973,
+    "area": 9712,
+    "popdensity": 216,
+    "workpoprate": 41.71
+  },
+  {
+    "dist": "Rohtas",
+    "litrate": 73.37,
+    "sexratio": 918,
+    "area": 3881,
+    "popdensity": 763,
+    "workpoprate": 31.25
+  },
+  {
+    "dist": "Hardwar",
+    "litrate": 73.43,
+    "sexratio": 880,
+    "area": 2360,
+    "popdensity": 801,
+    "workpoprate": 30.58
+  },
+  {
+    "dist": "Belgaum",
+    "litrate": 73.48,
+    "sexratio": 973,
+    "area": 13433,
+    "popdensity": 356,
+    "workpoprate": 44.05
+  },
+  {
+    "dist": "Jamnagar",
+    "litrate": 73.65,
+    "sexratio": 939,
+    "area": 14184,
+    "popdensity": 152,
+    "workpoprate": 39.23
+  },
+  {
+    "dist": "Chitradurga",
+    "litrate": 73.71,
+    "sexratio": 974,
+    "area": 8436,
+    "popdensity": 197,
+    "workpoprate": 51.62
+  },
+  {
+    "dist": "Krishna",
+    "litrate": 73.74,
+    "sexratio": 992,
+    "area": 8727,
+    "popdensity": 518,
+    "workpoprate": 45.36
+  },
+  {
+    "dist": "Jalaun",
+    "litrate": 73.75,
+    "sexratio": 865,
+    "area": 4565,
+    "popdensity": 370,
+    "workpoprate": 36.73
+  },
+  {
+    "dist": "East Garo Hills",
+    "litrate": 73.95,
+    "sexratio": 972,
+    "area": 2603,
+    "popdensity": 122,
+    "workpoprate": 39.66
+  },
+  {
+    "dist": "Jhunjhunun",
+    "litrate": 74.13,
+    "sexratio": 950,
+    "area": 5928,
+    "popdensity": 361,
+    "workpoprate": 41.86
+  },
+  {
+    "dist": "Senapati",
+    "litrate": 74.13,
+    "sexratio": 959,
+    "area": 3271,
+    "popdensity": 59,
+    "workpoprate": 45.45
+  },
+  {
+    "dist": "Tiruvannamalai",
+    "litrate": 74.21,
+    "sexratio": 994,
+    "area": 6188,
+    "popdensity": 398,
+    "workpoprate": 50.23
+  },
+  {
+    "dist": "Amreli",
+    "litrate": 74.25,
+    "sexratio": 964,
+    "area": 7397,
+    "popdensity": 205,
+    "workpoprate": 43.4
+  },
+  {
+    "dist": "Perambalur",
+    "litrate": 74.32,
+    "sexratio": 1003,
+    "area": 1756,
+    "popdensity": 322,
+    "workpoprate": 53.03
+  },
+  {
+    "dist": "Hailakandi",
+    "litrate": 74.33,
+    "sexratio": 951,
+    "area": 1327,
+    "popdensity": 497,
+    "workpoprate": 32.5
+  },
+  {
+    "dist": "Lower Subansiri",
+    "litrate": 74.35,
+    "sexratio": 984,
+    "area": 3508,
+    "popdensity": 24,
+    "workpoprate": 36.37
+  },
+  {
+    "dist": "Garhchiroli",
+    "litrate": 74.36,
+    "sexratio": 982,
+    "area": 14412,
+    "popdensity": 74,
+    "workpoprate": 54.45
+  },
+  {
+    "dist": "Kolar",
+    "litrate": 74.39,
+    "sexratio": 979,
+    "area": 3979,
+    "popdensity": 386,
+    "workpoprate": 46.72
+  },
+  {
+    "dist": "Subarnapur",
+    "litrate": 74.42,
+    "sexratio": 960,
+    "area": 2337,
+    "popdensity": 261,
+    "workpoprate": 46.98
+  },
+  {
+    "dist": "Thoubal",
+    "litrate": 74.47,
+    "sexratio": 1002,
+    "area": 514,
+    "popdensity": 821,
+    "workpoprate": 46.27
+  },
+  {
+    "dist": "Dhanbad",
+    "litrate": 74.52,
+    "sexratio": 909,
+    "area": 2040,
+    "popdensity": 1316,
+    "workpoprate": 31.46
+  },
+  {
+    "dist": "Bargarh",
+    "litrate": 74.62,
+    "sexratio": 977,
+    "area": 5837,
+    "popdensity": 254,
+    "workpoprate": 51.45
+  },
+  {
+    "dist": "Namakkal",
+    "litrate": 74.63,
+    "sexratio": 986,
+    "area": 3420,
+    "popdensity": 505,
+    "workpoprate": 52.02
+  },
+  {
+    "dist": "West Godavari",
+    "litrate": 74.63,
+    "sexratio": 1004,
+    "area": 7742,
+    "popdensity": 509,
+    "workpoprate": 45.04
+  },
+  {
+    "dist": "Karnal",
+    "litrate": 74.73,
+    "sexratio": 887,
+    "area": 2520,
+    "popdensity": 597,
+    "workpoprate": 34.28
+  },
+  {
+    "dist": "Koch Bihar",
+    "litrate": 74.78,
+    "sexratio": 942,
+    "area": 3387,
+    "popdensity": 832,
+    "workpoprate": 40.01
+  },
+  {
+    "dist": "Nadia",
+    "litrate": 74.97,
+    "sexratio": 947,
+    "area": 3927,
+    "popdensity": 1316,
+    "workpoprate": 35.66
+  },
+  {
+    "dist": "Jhansi",
+    "litrate": 75.05,
+    "sexratio": 890,
+    "area": 5024,
+    "popdensity": 398,
+    "workpoprate": 40.77
+  },
+  {
+    "dist": "Gadag",
+    "litrate": 75.12,
+    "sexratio": 982,
+    "area": 4657,
+    "popdensity": 229,
+    "workpoprate": 46.57
+  },
+  {
+    "dist": "Tumkur",
+    "litrate": 75.14,
+    "sexratio": 984,
+    "area": 10597,
+    "popdensity": 253,
+    "workpoprate": 50.57
+  },
+  {
+    "dist": "The Dangs",
+    "litrate": 75.16,
+    "sexratio": 1006,
+    "area": 1766,
+    "popdensity": 129,
+    "workpoprate": 51.8
+  },
+  {
+    "dist": "Bhiwani",
+    "litrate": 75.21,
+    "sexratio": 886,
+    "area": 4778,
+    "popdensity": 342,
+    "workpoprate": 38.12
+  },
+  {
+    "dist": "Bhind",
+    "litrate": 75.26,
+    "sexratio": 837,
+    "area": 4459,
+    "popdensity": 382,
+    "workpoprate": 30.58
+  },
+  {
+    "dist": "Patiala",
+    "litrate": 75.28,
+    "sexratio": 891,
+    "area": 3325,
+    "popdensity": 570,
+    "workpoprate": 34.83
+  },
+  {
+    "dist": "Hoshangabad",
+    "litrate": 75.29,
+    "sexratio": 914,
+    "area": 6703,
+    "popdensity": 185,
+    "workpoprate": 38.51
+  },
+  {
+    "dist": "Nanded",
+    "litrate": 75.45,
+    "sexratio": 943,
+    "area": 10528,
+    "popdensity": 319,
+    "workpoprate": 44.45
+  },
+  {
+    "dist": "Purbi Singhbhum",
+    "litrate": 75.49,
+    "sexratio": 949,
+    "area": 3562,
+    "popdensity": 644,
+    "workpoprate": 36.5
+  },
+  {
+    "dist": "Jaipur",
+    "litrate": 75.51,
+    "sexratio": 910,
+    "area": 11143,
+    "popdensity": 595,
+    "workpoprate": 37.2
+  },
+  {
+    "dist": "Bhavnagar",
+    "litrate": 75.52,
+    "sexratio": 933,
+    "area": 10034,
+    "popdensity": 287,
+    "workpoprate": 39.95
+  },
+  {
+    "dist": "Kamrup",
+    "litrate": 75.55,
+    "sexratio": 949,
+    "area": 3105,
+    "popdensity": 489,
+    "workpoprate": 41.45
+  },
+  {
+    "dist": "Raipur",
+    "litrate": 75.56,
+    "sexratio": 984,
+    "area": 12383,
+    "popdensity": 328,
+    "workpoprate": 43.25
+  },
+  {
+    "dist": "Karur",
+    "litrate": 75.6,
+    "sexratio": 1015,
+    "area": 2904,
+    "popdensity": 367,
+    "workpoprate": 51.04
+  },
+  {
+    "dist": "Varanasi",
+    "litrate": 75.6,
+    "sexratio": 913,
+    "area": 1535,
+    "popdensity": 2395,
+    "workpoprate": 33.2
+  },
+  {
+    "dist": "Ri bhoi",
+    "litrate": 75.67,
+    "sexratio": 953,
+    "area": 2448,
+    "popdensity": 106,
+    "workpoprate": 41.13
+  },
+  {
+    "dist": "Narsimhapur",
+    "litrate": 75.69,
+    "sexratio": 920,
+    "area": 5133,
+    "popdensity": 213,
+    "workpoprate": 43.76
+  },
+  {
+    "dist": "Davanagere",
+    "litrate": 75.74,
+    "sexratio": 972,
+    "area": 5924,
+    "popdensity": 328,
+    "workpoprate": 44.99
+  },
+  {
+    "dist": "Kanpur Dehat",
+    "litrate": 75.78,
+    "sexratio": 865,
+    "area": 3021,
+    "popdensity": 595,
+    "workpoprate": 35.01
+  },
+  {
+    "dist": "Porbandar",
+    "litrate": 75.78,
+    "sexratio": 950,
+    "area": 2316,
+    "popdensity": 253,
+    "workpoprate": 39.49
+  },
+  {
+    "dist": "Sabar Kantha",
+    "litrate": 75.79,
+    "sexratio": 952,
+    "area": 7394,
+    "popdensity": 328,
+    "workpoprate": 44.67
+  },
+  {
+    "dist": "Junagadh",
+    "litrate": 75.8,
+    "sexratio": 953,
+    "area": 8831,
+    "popdensity": 311,
+    "workpoprate": 40.97
+  },
+  {
+    "dist": "Uttarkashi",
+    "litrate": 75.81,
+    "sexratio": 958,
+    "area": 8016,
+    "popdensity": 41,
+    "workpoprate": 47.65
+  },
+  {
+    "dist": "Bishnupur",
+    "litrate": 75.85,
+    "sexratio": 999,
+    "area": 496,
+    "popdensity": 479,
+    "workpoprate": 46.31
+  },
+  {
+    "dist": "Rangareddy",
+    "litrate": 75.87,
+    "sexratio": 961,
+    "area": 7493,
+    "popdensity": 707,
+    "workpoprate": 41.46
+  },
+  {
+    "dist": "Panipat",
+    "litrate": 75.94,
+    "sexratio": 864,
+    "area": 1268,
+    "popdensity": 951,
+    "workpoprate": 34.2
+  },
+  {
+    "dist": "Rajnandgaon",
+    "litrate": 75.96,
+    "sexratio": 1015,
+    "area": 8070,
+    "popdensity": 190,
+    "workpoprate": 52.05
+  },
+  {
+    "dist": "Mainpuri",
+    "litrate": 75.99,
+    "sexratio": 881,
+    "area": 2760,
+    "popdensity": 677,
+    "workpoprate": 30.02
+  },
+  {
+    "dist": "Dibrugarh",
+    "litrate": 76.05,
+    "sexratio": 961,
+    "area": 3381,
+    "popdensity": 392,
+    "workpoprate": 42.26
+  },
+  {
+    "dist": "Ranchi",
+    "litrate": 76.06,
+    "sexratio": 949,
+    "area": 5097,
+    "popdensity": 572,
+    "workpoprate": 39.22
+  },
+  {
+    "dist": "Hassan",
+    "litrate": 76.07,
+    "sexratio": 1010,
+    "area": 6814,
+    "popdensity": 261,
+    "workpoprate": 50.87
+  },
+  {
+    "dist": "Barddhaman",
+    "litrate": 76.21,
+    "sexratio": 945,
+    "area": 7024,
+    "popdensity": 1099,
+    "workpoprate": 37.72
+  },
+  {
+    "dist": "Sambalpur",
+    "litrate": 76.22,
+    "sexratio": 976,
+    "area": 6624,
+    "popdensity": 157,
+    "workpoprate": 48.59
+  },
+  {
+    "dist": "Dadra & Nagar Haveli",
+    "litrate": 76.24,
+    "sexratio": 774,
+    "area": 491,
+    "popdensity": 700,
+    "workpoprate": 45.73
+  },
+  {
+    "dist": "Dindigul",
+    "litrate": 76.26,
+    "sexratio": 998,
+    "area": 6036,
+    "popdensity": 358,
+    "workpoprate": 51.17
+  },
+  {
+    "dist": "Amritsar",
+    "litrate": 76.27,
+    "sexratio": 889,
+    "area": 2683,
+    "popdensity": 928,
+    "workpoprate": 36.85
+  },
+  {
+    "dist": "Kurukshetra",
+    "litrate": 76.31,
+    "sexratio": 888,
+    "area": 1530,
+    "popdensity": 630,
+    "workpoprate": 34.91
+  },
+  {
+    "dist": "Tehri Garhwal",
+    "litrate": 76.36,
+    "sexratio": 1077,
+    "area": 3642,
+    "popdensity": 170,
+    "workpoprate": 45.31
+  },
+  {
+    "dist": "Sagar",
+    "litrate": 76.46,
+    "sexratio": 893,
+    "area": 10252,
+    "popdensity": 232,
+    "workpoprate": 42.3
+  },
+  {
+    "dist": "Kota",
+    "litrate": 76.56,
+    "sexratio": 911,
+    "area": 5217,
+    "popdensity": 374,
+    "workpoprate": 38.38
+  },
+  {
+    "dist": "Gwalior",
+    "litrate": 76.65,
+    "sexratio": 864,
+    "area": 4560,
+    "popdensity": 446,
+    "workpoprate": 33.73
+  },
+  {
+    "dist": "Lahul & Spiti",
+    "litrate": 76.81,
+    "sexratio": 903,
+    "area": 13841,
+    "popdensity": 2,
+    "workpoprate": 61.13
+  },
+  {
+    "dist": "Bid",
+    "litrate": 76.99,
+    "sexratio": 916,
+    "area": 10693,
+    "popdensity": 242,
+    "workpoprate": 48.57
+  },
+  {
+    "dist": "Solapur",
+    "litrate": 77.02,
+    "sexratio": 938,
+    "area": 14895,
+    "popdensity": 290,
+    "workpoprate": 43.97
+  },
+  {
+    "dist": "Balaghat",
+    "litrate": 77.09,
+    "sexratio": 1021,
+    "area": 9229,
+    "popdensity": 184,
+    "workpoprate": 52.48
+  },
+  {
+    "dist": "Pudukkottai",
+    "litrate": 77.19,
+    "sexratio": 1015,
+    "area": 4644,
+    "popdensity": 348,
+    "workpoprate": 47.07
+  },
+  {
+    "dist": "Lakhimpur",
+    "litrate": 77.2,
+    "sexratio": 968,
+    "area": 2277,
+    "popdensity": 458,
+    "workpoprate": 41.26
+  },
+  {
+    "dist": "Leh (Ladakh)",
+    "litrate": 77.2,
+    "sexratio": 690,
+    "area": 45110,
+    "popdensity": 3,
+    "workpoprate": 56.24
+  },
+  {
+    "dist": "Latur",
+    "litrate": 77.26,
+    "sexratio": 928,
+    "area": 7157,
+    "popdensity": 343,
+    "workpoprate": 42.66
+  },
+  {
+    "dist": "Theni",
+    "litrate": 77.26,
+    "sexratio": 991,
+    "area": 2868,
+    "popdensity": 434,
+    "workpoprate": 47.49
+  },
+  {
+    "dist": "Lucknow",
+    "litrate": 77.29,
+    "sexratio": 917,
+    "area": 2528,
+    "popdensity": 1816,
+    "workpoprate": 33.61
+  },
+  {
+    "dist": "West District",
+    "litrate": 77.39,
+    "sexratio": 942,
+    "area": 1166,
+    "popdensity": 117,
+    "workpoprate": 51.56
+  },
+  {
+    "dist": "Haveri",
+    "litrate": 77.4,
+    "sexratio": 950,
+    "area": 4823,
+    "popdensity": 331,
+    "workpoprate": 45.7
+  },
+  {
+    "dist": "Golaghat",
+    "litrate": 77.43,
+    "sexratio": 964,
+    "area": 3502,
+    "popdensity": 305,
+    "workpoprate": 44.98
+  },
+  {
+    "dist": "South 24 Parganas",
+    "litrate": 77.51,
+    "sexratio": 956,
+    "area": 9960,
+    "popdensity": 819,
+    "workpoprate": 36.32
+  },
+  {
+    "dist": "Anugul",
+    "litrate": 77.53,
+    "sexratio": 943,
+    "area": 6375,
+    "popdensity": 200,
+    "workpoprate": 41.33
+  },
+  {
+    "dist": "Dima Hasao",
+    "litrate": 77.54,
+    "sexratio": 932,
+    "area": 4888,
+    "popdensity": 44,
+    "workpoprate": 39.71
+  },
+  {
+    "dist": "Mahendragarh",
+    "litrate": 77.72,
+    "sexratio": 895,
+    "area": 1899,
+    "popdensity": 486,
+    "workpoprate": 36.72
+  },
+  {
+    "dist": "West Khasi Hills",
+    "litrate": 77.87,
+    "sexratio": 980,
+    "area": 5247,
+    "popdensity": 73,
+    "workpoprate": 42.6
+  },
+  {
+    "dist": "Bangalore Rural",
+    "litrate": 77.93,
+    "sexratio": 946,
+    "area": 2298,
+    "popdensity": 431,
+    "workpoprate": 46.41
+  },
+  {
+    "dist": "Peren",
+    "litrate": 77.95,
+    "sexratio": 915,
+    "area": 1651,
+    "popdensity": 58,
+    "workpoprate": 64.47
+  },
+  {
+    "dist": "Yamunanagar",
+    "litrate": 77.99,
+    "sexratio": 877,
+    "area": 1768,
+    "popdensity": 687,
+    "workpoprate": 32.06
+  },
+  {
+    "dist": "Pashchim Medinipur",
+    "litrate": 78,
+    "sexratio": 966,
+    "area": 9368,
+    "popdensity": 631,
+    "workpoprate": 42.43
+  },
+  {
+    "dist": "North  District",
+    "litrate": 78.01,
+    "sexratio": 767,
+    "area": 4226,
+    "popdensity": 10,
+    "workpoprate": 53.44
+  },
+  {
+    "dist": "Cuddalore",
+    "litrate": 78.04,
+    "sexratio": 987,
+    "area": 3703,
+    "popdensity": 704,
+    "workpoprate": 44.89
+  },
+  {
+    "dist": "Phek",
+    "litrate": 78.05,
+    "sexratio": 951,
+    "area": 2026,
+    "popdensity": 81,
+    "workpoprate": 49.12
+  },
+  {
+    "dist": "Nicobar",
+    "litrate": 78.06,
+    "sexratio": 777,
+    "area": 1841,
+    "popdensity": 20,
+    "workpoprate": 46.48
+  },
+  {
+    "dist": "Ghaziabad",
+    "litrate": 78.07,
+    "sexratio": 881,
+    "area": 1179,
+    "popdensity": 3971,
+    "workpoprate": 32.48
+  },
+  {
+    "dist": "Hingoli",
+    "litrate": 78.17,
+    "sexratio": 942,
+    "area": 4827,
+    "popdensity": 244,
+    "workpoprate": 48.34
+  },
+  {
+    "dist": "Jalgaon",
+    "litrate": 78.2,
+    "sexratio": 925,
+    "area": 11765,
+    "popdensity": 360,
+    "workpoprate": 44.06
+  },
+  {
+    "dist": "Karimganj",
+    "litrate": 78.22,
+    "sexratio": 963,
+    "area": 1809,
+    "popdensity": 679,
+    "workpoprate": 32.49
+  },
+  {
+    "dist": "Dhamtari",
+    "litrate": 78.36,
+    "sexratio": 1010,
+    "area": 4084,
+    "popdensity": 196,
+    "workpoprate": 50.38
+  },
+  {
+    "dist": "Etawah",
+    "litrate": 78.41,
+    "sexratio": 870,
+    "area": 2311,
+    "popdensity": 684,
+    "workpoprate": 31.99
+  },
+  {
+    "dist": "Osmanabad",
+    "litrate": 78.44,
+    "sexratio": 924,
+    "area": 7569,
+    "popdensity": 219,
+    "workpoprate": 46.69
+  },
+  {
+    "dist": "Valsad",
+    "litrate": 78.55,
+    "sexratio": 922,
+    "area": 3008,
+    "popdensity": 567,
+    "workpoprate": 43.57
+  },
+  {
+    "dist": "Nalbari",
+    "litrate": 78.63,
+    "sexratio": 949,
+    "area": 1052,
+    "popdensity": 733,
+    "workpoprate": 34.68
+  },
+  {
+    "dist": "Tiruppur",
+    "litrate": 78.68,
+    "sexratio": 989,
+    "area": 5187,
+    "popdensity": 478,
+    "workpoprate": 51.07
+  },
+  {
+    "dist": "Dhenkanal",
+    "litrate": 78.76,
+    "sexratio": 947,
+    "area": 4452,
+    "popdensity": 268,
+    "workpoprate": 36.51
+  },
+  {
+    "dist": "Sirmaur",
+    "litrate": 78.8,
+    "sexratio": 918,
+    "area": 2825,
+    "popdensity": 188,
+    "workpoprate": 52.86
+  },
+  {
+    "dist": "Jharsuguda",
+    "litrate": 78.86,
+    "sexratio": 953,
+    "area": 2114,
+    "popdensity": 274,
+    "workpoprate": 42.74
+  },
+  {
+    "dist": "Vadodara",
+    "litrate": 78.92,
+    "sexratio": 934,
+    "area": 7546,
+    "popdensity": 552,
+    "workpoprate": 40.65
+  },
+  {
+    "dist": "Auraiya",
+    "litrate": 78.95,
+    "sexratio": 864,
+    "area": 2016,
+    "popdensity": 684,
+    "workpoprate": 32.04
+  },
+  {
+    "dist": "Aurangabad",
+    "litrate": 79.02,
+    "sexratio": 923,
+    "area": 10107,
+    "popdensity": 366,
+    "workpoprate": 42.55
+  },
+  {
+    "dist": "Ahmadnagar",
+    "litrate": 79.05,
+    "sexratio": 939,
+    "area": 17048,
+    "popdensity": 266,
+    "workpoprate": 48.53
+  },
+  {
+    "dist": "Durg",
+    "litrate": 79.06,
+    "sexratio": 988,
+    "area": 8535,
+    "popdensity": 392,
+    "workpoprate": 44.76
+  },
+  {
+    "dist": "Kapurthala",
+    "litrate": 79.07,
+    "sexratio": 912,
+    "area": 1633,
+    "popdensity": 499,
+    "workpoprate": 34.86
+  },
+  {
+    "dist": "Sonipat",
+    "litrate": 79.12,
+    "sexratio": 856,
+    "area": 2122,
+    "popdensity": 683,
+    "workpoprate": 36.08
+  },
+  {
+    "dist": "Vellore",
+    "litrate": 79.17,
+    "sexratio": 1007,
+    "area": 6075,
+    "popdensity": 648,
+    "workpoprate": 42.92
+  },
+  {
+    "dist": "Chikmagalur",
+    "litrate": 79.25,
+    "sexratio": 1008,
+    "area": 7202,
+    "popdensity": 158,
+    "workpoprate": 49.72
+  },
+  {
+    "dist": "Cachar",
+    "litrate": 79.34,
+    "sexratio": 959,
+    "area": 3786,
+    "popdensity": 459,
+    "workpoprate": 35.01
+  },
+  {
+    "dist": "Fatehgarh Sahib",
+    "litrate": 79.35,
+    "sexratio": 871,
+    "area": 1180,
+    "popdensity": 509,
+    "workpoprate": 35.79
+  },
+  {
+    "dist": "Kullu",
+    "litrate": 79.4,
+    "sexratio": 942,
+    "area": 5503,
+    "popdensity": 80,
+    "workpoprate": 61.45
+  },
+  {
+    "dist": "Yanam",
+    "litrate": 79.47,
+    "sexratio": 1038,
+    "area": 30,
+    "popdensity": 1854,
+    "workpoprate": 30.13
+  },
+  {
+    "dist": "Darjiling",
+    "litrate": 79.56,
+    "sexratio": 970,
+    "area": 3149,
+    "popdensity": 586,
+    "workpoprate": 37.02
+  },
+  {
+    "dist": "Kanpur Nagar",
+    "litrate": 79.65,
+    "sexratio": 862,
+    "area": 3155,
+    "popdensity": 1452,
+    "workpoprate": 34.32
+  },
+  {
+    "dist": "Shahid Bhagat Singh Nagar",
+    "litrate": 79.78,
+    "sexratio": 954,
+    "area": 1282,
+    "popdensity": 478,
+    "workpoprate": 33.37
+  },
+  {
+    "dist": "Baleshwar",
+    "litrate": 79.79,
+    "sexratio": 957,
+    "area": 3806,
+    "popdensity": 610,
+    "workpoprate": 40.19
+  },
+  {
+    "dist": "Champawat",
+    "litrate": 79.83,
+    "sexratio": 980,
+    "area": 1766,
+    "popdensity": 147,
+    "workpoprate": 38.35
+  },
+  {
+    "dist": "Sivaganga",
+    "litrate": 79.85,
+    "sexratio": 1003,
+    "area": 4233,
+    "popdensity": 316,
+    "workpoprate": 46.31
+  },
+  {
+    "dist": "Gurdaspur",
+    "litrate": 79.95,
+    "sexratio": 895,
+    "area": 3551,
+    "popdensity": 647,
+    "workpoprate": 32.94
+  },
+  {
+    "dist": "Papum Pare",
+    "litrate": 79.95,
+    "sexratio": 980,
+    "area": 3462,
+    "popdensity": 51,
+    "workpoprate": 37.25
+  },
+  {
+    "dist": "Dharwad",
+    "litrate": 80,
+    "sexratio": 971,
+    "area": 4260,
+    "popdensity": 434,
+    "workpoprate": 42.49
+  },
+  {
+    "dist": "Kinnaur",
+    "litrate": 80,
+    "sexratio": 819,
+    "area": 6401,
+    "popdensity": 13,
+    "workpoprate": 66.9
+  },
+  {
+    "dist": "Bageshwar",
+    "litrate": 80.01,
+    "sexratio": 1090,
+    "area": 2241,
+    "popdensity": 116,
+    "workpoprate": 47.57
+  },
+  {
+    "dist": "Chandrapur",
+    "litrate": 80.01,
+    "sexratio": 961,
+    "area": 11443,
+    "popdensity": 193,
+    "workpoprate": 48
+  },
+  {
+    "dist": "Gautam Buddha Nagar",
+    "litrate": 80.12,
+    "sexratio": 851,
+    "area": 1282,
+    "popdensity": 1286,
+    "workpoprate": 34.53
+  },
+  {
+    "dist": "Jajapur",
+    "litrate": 80.13,
+    "sexratio": 973,
+    "area": 2899,
+    "popdensity": 630,
+    "workpoprate": 30.22
+  },
+  {
+    "dist": "Virudunagar",
+    "litrate": 80.15,
+    "sexratio": 1007,
+    "area": 4241,
+    "popdensity": 458,
+    "workpoprate": 48.92
+  },
+  {
+    "dist": "Rohtak",
+    "litrate": 80.22,
+    "sexratio": 867,
+    "area": 1745,
+    "popdensity": 608,
+    "workpoprate": 32.6
+  },
+  {
+    "dist": "Bhopal",
+    "litrate": 80.37,
+    "sexratio": 918,
+    "area": 2772,
+    "popdensity": 855,
+    "workpoprate": 36.59
+  },
+  {
+    "dist": "Sivasagar",
+    "litrate": 80.41,
+    "sexratio": 954,
+    "area": 2668,
+    "popdensity": 431,
+    "workpoprate": 42.2
+  },
+  {
+    "dist": "Nayagarh",
+    "litrate": 80.42,
+    "sexratio": 915,
+    "area": 3890,
+    "popdensity": 248,
+    "workpoprate": 35.69
+  },
+  {
+    "dist": "Shimoga",
+    "litrate": 80.45,
+    "sexratio": 998,
+    "area": 8478,
+    "popdensity": 207,
+    "workpoprate": 44.54
+  },
+  {
+    "dist": "Almora",
+    "litrate": 80.47,
+    "sexratio": 1139,
+    "area": 3144,
+    "popdensity": 198,
+    "workpoprate": 47.9
+  },
+  {
+    "dist": "Jhajjar",
+    "litrate": 80.65,
+    "sexratio": 862,
+    "area": 1834,
+    "popdensity": 523,
+    "workpoprate": 34.07
+  },
+  {
+    "dist": "Ramanathapuram",
+    "litrate": 80.72,
+    "sexratio": 983,
+    "area": 4104,
+    "popdensity": 330,
+    "workpoprate": 44.55
+  },
+  {
+    "dist": "Indore",
+    "litrate": 80.87,
+    "sexratio": 928,
+    "area": 3898,
+    "popdensity": 841,
+    "workpoprate": 38.7
+  },
+  {
+    "dist": "Rajkot",
+    "litrate": 80.96,
+    "sexratio": 927,
+    "area": 11198,
+    "popdensity": 340,
+    "workpoprate": 38.88
+  },
+  {
+    "dist": "Rewari",
+    "litrate": 80.99,
+    "sexratio": 898,
+    "area": 1594,
+    "popdensity": 565,
+    "workpoprate": 37.51
+  },
+  {
+    "dist": "Jabalpur",
+    "litrate": 81.07,
+    "sexratio": 929,
+    "area": 5211,
+    "popdensity": 473,
+    "workpoprate": 40.82
+  },
+  {
+    "dist": "Rudraprayag",
+    "litrate": 81.3,
+    "sexratio": 1114,
+    "area": 1984,
+    "popdensity": 122,
+    "workpoprate": 46.65
+  },
+  {
+    "dist": "Ukhrul",
+    "litrate": 81.35,
+    "sexratio": 943,
+    "area": 4544,
+    "popdensity": 40,
+    "workpoprate": 47.79
+  },
+  {
+    "dist": "Samba",
+    "litrate": 81.41,
+    "sexratio": 886,
+    "area": 904,
+    "popdensity": 353,
+    "workpoprate": 29.01
+  },
+  {
+    "dist": "South District",
+    "litrate": 81.42,
+    "sexratio": 915,
+    "area": 750,
+    "popdensity": 196,
+    "workpoprate": 50.9
+  },
+  {
+    "dist": "Sangli",
+    "litrate": 81.48,
+    "sexratio": 966,
+    "area": 8572,
+    "popdensity": 329,
+    "workpoprate": 43.06
+  },
+  {
+    "dist": "Bharuch",
+    "litrate": 81.51,
+    "sexratio": 925,
+    "area": 6509,
+    "popdensity": 238,
+    "workpoprate": 40.43
+  },
+  {
+    "dist": "Kolhapur",
+    "litrate": 81.51,
+    "sexratio": 957,
+    "area": 7685,
+    "popdensity": 504,
+    "workpoprate": 43.96
+  },
+  {
+    "dist": "Mandi",
+    "litrate": 81.53,
+    "sexratio": 1007,
+    "area": 3950,
+    "popdensity": 253,
+    "workpoprate": 57.28
+  },
+  {
+    "dist": "Faridabad",
+    "litrate": 81.7,
+    "sexratio": 873,
+    "area": 741,
+    "popdensity": 2442,
+    "workpoprate": 32.01
+  },
+  {
+    "dist": "Ambala",
+    "litrate": 81.75,
+    "sexratio": 885,
+    "area": 1574,
+    "popdensity": 717,
+    "workpoprate": 32.98
+  },
+  {
+    "dist": "Hugli",
+    "litrate": 81.8,
+    "sexratio": 961,
+    "area": 3149,
+    "popdensity": 1753,
+    "workpoprate": 39.01
+  },
+  {
+    "dist": "Panchkula",
+    "litrate": 81.88,
+    "sexratio": 873,
+    "area": 898,
+    "popdensity": 625,
+    "workpoprate": 37.68
+  },
+  {
+    "dist": "Imphal East",
+    "litrate": 81.95,
+    "sexratio": 1017,
+    "area": 709,
+    "popdensity": 643,
+    "workpoprate": 42.72
+  },
+  {
+    "dist": "Garhwal",
+    "litrate": 82.02,
+    "sexratio": 1103,
+    "area": 5329,
+    "popdensity": 129,
+    "workpoprate": 39.89
+  },
+  {
+    "dist": "Jorhat",
+    "litrate": 82.15,
+    "sexratio": 962,
+    "area": 2851,
+    "popdensity": 383,
+    "workpoprate": 45.65
+  },
+  {
+    "dist": "Ratnagiri",
+    "litrate": 82.18,
+    "sexratio": 1122,
+    "area": 8208,
+    "popdensity": 197,
+    "workpoprate": 44.21
+  },
+  {
+    "dist": "Rupnagar",
+    "litrate": 82.19,
+    "sexratio": 915,
+    "area": 1356,
+    "popdensity": 505,
+    "workpoprate": 34.13
+  },
+  {
+    "dist": "Ludhiana",
+    "litrate": 82.2,
+    "sexratio": 873,
+    "area": 3578,
+    "popdensity": 978,
+    "workpoprate": 36.72
+  },
+  {
+    "dist": "Pithoragarh",
+    "litrate": 82.25,
+    "sexratio": 1020,
+    "area": 7090,
+    "popdensity": 68,
+    "workpoprate": 44.78
+  },
+  {
+    "dist": "Nashik",
+    "litrate": 82.31,
+    "sexratio": 934,
+    "area": 15530,
+    "popdensity": 393,
+    "workpoprate": 45.25
+  },
+  {
+    "dist": "Jalandhar",
+    "litrate": 82.48,
+    "sexratio": 915,
+    "area": 2624,
+    "popdensity": 836,
+    "workpoprate": 35.31
+  },
+  {
+    "dist": "Tirunelveli",
+    "litrate": 82.5,
+    "sexratio": 1023,
+    "area": 6693,
+    "popdensity": 460,
+    "workpoprate": 46.68
+  },
+  {
+    "dist": "Kodagu",
+    "litrate": 82.61,
+    "sexratio": 1019,
+    "area": 4102,
+    "popdensity": 135,
+    "workpoprate": 50.3
+  },
+  {
+    "dist": "Thanjavur",
+    "litrate": 82.64,
+    "sexratio": 1035,
+    "area": 3411,
+    "popdensity": 705,
+    "workpoprate": 40.49
+  },
+  {
+    "dist": "Chamoli",
+    "litrate": 82.65,
+    "sexratio": 1019,
+    "area": 8030,
+    "popdensity": 49,
+    "workpoprate": 46.2
+  },
+  {
+    "dist": "Kheda",
+    "litrate": 82.65,
+    "sexratio": 940,
+    "area": 3953,
+    "popdensity": 582,
+    "workpoprate": 40.61
+  },
+  {
+    "dist": "Bhadrak",
+    "litrate": 82.78,
+    "sexratio": 981,
+    "area": 2505,
+    "popdensity": 601,
+    "workpoprate": 31.11
+  },
+  {
+    "dist": "Churachandpur",
+    "litrate": 82.78,
+    "sexratio": 975,
+    "area": 4570,
+    "popdensity": 60,
+    "workpoprate": 44.74
+  },
+  {
+    "dist": "Yavatmal",
+    "litrate": 82.82,
+    "sexratio": 952,
+    "area": 13582,
+    "popdensity": 204,
+    "workpoprate": 48.91
+  },
+  {
+    "dist": "Thiruvarur",
+    "litrate": 82.86,
+    "sexratio": 1017,
+    "area": 2274,
+    "popdensity": 556,
+    "workpoprate": 42.73
+  },
+  {
+    "dist": "Satara",
+    "litrate": 82.87,
+    "sexratio": 988,
+    "area": 10480,
+    "popdensity": 287,
+    "workpoprate": 45.11
+  },
+  {
+    "dist": "North East",
+    "litrate": 83.09,
+    "sexratio": 886,
+    "area": 62,
+    "popdensity": 36155,
+    "workpoprate": 29.5
+  },
+  {
+    "dist": "Raigarh",
+    "litrate": 83.14,
+    "sexratio": 959,
+    "area": 7152,
+    "popdensity": 368,
+    "workpoprate": 40.73
+  },
+  {
+    "dist": "Tiruchirappalli",
+    "litrate": 83.23,
+    "sexratio": 1013,
+    "area": 4509,
+    "popdensity": 604,
+    "workpoprate": 44.59
+  },
+  {
+    "dist": "Hyderabad",
+    "litrate": 83.25,
+    "sexratio": 954,
+    "area": 217,
+    "popdensity": 18172,
+    "workpoprate": 35.84
+  },
+  {
+    "dist": "Washim",
+    "litrate": 83.25,
+    "sexratio": 930,
+    "area": 4898,
+    "popdensity": 244,
+    "workpoprate": 47.6
+  },
+  {
+    "dist": "Haora",
+    "litrate": 83.31,
+    "sexratio": 939,
+    "area": 1467,
+    "popdensity": 3306,
+    "workpoprate": 37.52
+  },
+  {
+    "dist": "Buldana",
+    "litrate": 83.4,
+    "sexratio": 934,
+    "area": 9661,
+    "popdensity": 268,
+    "workpoprate": 47.16
+  },
+  {
+    "dist": "Jammu",
+    "litrate": 83.45,
+    "sexratio": 880,
+    "area": 2342,
+    "popdensity": 653,
+    "workpoprate": 33.24
+  },
+  {
+    "dist": "Madurai",
+    "litrate": 83.45,
+    "sexratio": 990,
+    "area": 3710,
+    "popdensity": 819,
+    "workpoprate": 44.59
+  },
+  {
+    "dist": "Diu",
+    "litrate": 83.46,
+    "sexratio": 1031,
+    "area": 39,
+    "popdensity": 1335,
+    "workpoprate": 30.25
+  },
+  {
+    "dist": "Nagappattinam",
+    "litrate": 83.59,
+    "sexratio": 1025,
+    "area": 2569,
+    "popdensity": 629,
+    "workpoprate": 41.57
+  },
+  {
+    "dist": "Mahesana",
+    "litrate": 83.61,
+    "sexratio": 926,
+    "area": 4401,
+    "popdensity": 462,
+    "workpoprate": 39.9
+  },
+  {
+    "dist": "Shimla",
+    "litrate": 83.64,
+    "sexratio": 915,
+    "area": 5131,
+    "popdensity": 159,
+    "workpoprate": 52.94
+  },
+  {
+    "dist": "Solan",
+    "litrate": 83.68,
+    "sexratio": 880,
+    "area": 1936,
+    "popdensity": 300,
+    "workpoprate": 51.48
+  },
+  {
+    "dist": "Bhandara",
+    "litrate": 83.76,
+    "sexratio": 982,
+    "area": 4087,
+    "popdensity": 294,
+    "workpoprate": 49.76
+  },
+  {
+    "dist": "Sahibzada Ajit Singh Nagar",
+    "litrate": 83.8,
+    "sexratio": 879,
+    "area": 1094,
+    "popdensity": 909,
+    "workpoprate": 35.79
+  },
+  {
+    "dist": "East District",
+    "litrate": 83.85,
+    "sexratio": 873,
+    "area": 954,
+    "popdensity": 297,
+    "workpoprate": 49.25
+  },
+  {
+    "dist": "Nainital",
+    "litrate": 83.88,
+    "sexratio": 934,
+    "area": 4251,
+    "popdensity": 225,
+    "workpoprate": 39.41
+  },
+  {
+    "dist": "Navsari",
+    "litrate": 83.88,
+    "sexratio": 961,
+    "area": 2246,
+    "popdensity": 592,
+    "workpoprate": 44.51
+  },
+  {
+    "dist": "North & Middle Andaman",
+    "litrate": 83.91,
+    "sexratio": 925,
+    "area": 3736,
+    "popdensity": 28,
+    "workpoprate": 36.53
+  },
+  {
+    "dist": "Coimbatore",
+    "litrate": 83.98,
+    "sexratio": 1000,
+    "area": 4732,
+    "popdensity": 731,
+    "workpoprate": 45.34
+  },
+  {
+    "dist": "Thiruvallur",
+    "litrate": 84.03,
+    "sexratio": 987,
+    "area": 3394,
+    "popdensity": 1098,
+    "workpoprate": 41.26
+  },
+  {
+    "dist": "North 24 Parganas",
+    "litrate": 84.06,
+    "sexratio": 955,
+    "area": 4094,
+    "popdensity": 2445,
+    "workpoprate": 35.68
+  },
+  {
+    "dist": "Uttara Kannada",
+    "litrate": 84.06,
+    "sexratio": 979,
+    "area": 10277,
+    "popdensity": 140,
+    "workpoprate": 42.34
+  },
+  {
+    "dist": "East Khasi Hills",
+    "litrate": 84.15,
+    "sexratio": 1011,
+    "area": 2748,
+    "popdensity": 301,
+    "workpoprate": 39.57
+  },
+  {
+    "dist": "Gandhinagar",
+    "litrate": 84.16,
+    "sexratio": 923,
+    "area": 2140,
+    "popdensity": 650,
+    "workpoprate": 38.44
+  },
+  {
+    "dist": "Dehradun",
+    "litrate": 84.25,
+    "sexratio": 902,
+    "area": 3088,
+    "popdensity": 549,
+    "workpoprate": 34.35
+  },
+  {
+    "dist": "Anand",
+    "litrate": 84.37,
+    "sexratio": 925,
+    "area": 3204,
+    "popdensity": 653,
+    "workpoprate": 40.37
+  },
+  {
+    "dist": "North West",
+    "litrate": 84.45,
+    "sexratio": 865,
+    "area": 443,
+    "popdensity": 8254,
+    "workpoprate": 32.5
+  },
+  {
+    "dist": "Kancheepuram",
+    "litrate": 84.49,
+    "sexratio": 986,
+    "area": 4483,
+    "popdensity": 892,
+    "workpoprate": 41.86
+  },
+  {
+    "dist": "Thane",
+    "litrate": 84.53,
+    "sexratio": 886,
+    "area": 9558,
+    "popdensity": 1157,
+    "workpoprate": 40.62
+  },
+  {
+    "dist": "Bilaspur",
+    "litrate": 84.59,
+    "sexratio": 981,
+    "area": 1167,
+    "popdensity": 327,
+    "workpoprate": 53.9
+  },
+  {
+    "dist": "Hoshiarpur",
+    "litrate": 84.59,
+    "sexratio": 961,
+    "area": 3386,
+    "popdensity": 469,
+    "workpoprate": 31.5
+  },
+  {
+    "dist": "South Tripura",
+    "litrate": 84.66,
+    "sexratio": 957,
+    "area": 3057,
+    "popdensity": 287,
+    "workpoprate": 41.88
+  },
+  {
+    "dist": "Puri",
+    "litrate": 84.67,
+    "sexratio": 963,
+    "area": 3479,
+    "popdensity": 488,
+    "workpoprate": 36.6
+  },
+  {
+    "dist": "Gurgaon",
+    "litrate": 84.7,
+    "sexratio": 854,
+    "area": 1258,
+    "popdensity": 1204,
+    "workpoprate": 35.97
+  },
+  {
+    "dist": "Dimapur",
+    "litrate": 84.79,
+    "sexratio": 919,
+    "area": 927,
+    "popdensity": 409,
+    "workpoprate": 39.95
+  },
+  {
+    "dist": "Mamit",
+    "litrate": 84.93,
+    "sexratio": 927,
+    "area": 3025,
+    "popdensity": 29,
+    "workpoprate": 45.55
+  },
+  {
+    "dist": "Gondiya",
+    "litrate": 84.95,
+    "sexratio": 999,
+    "area": 5234,
+    "popdensity": 253,
+    "workpoprate": 50.31
+  },
+  {
+    "dist": "Central",
+    "litrate": 85.14,
+    "sexratio": 892,
+    "area": 21,
+    "popdensity": 27730,
+    "workpoprate": 35.61
+  },
+  {
+    "dist": "Kendrapara",
+    "litrate": 85.15,
+    "sexratio": 1007,
+    "area": 2644,
+    "popdensity": 545,
+    "workpoprate": 32.41
+  },
+  {
+    "dist": "The Nilgiris",
+    "litrate": 85.2,
+    "sexratio": 1042,
+    "area": 2565,
+    "popdensity": 287,
+    "workpoprate": 47.59
+  },
+  {
+    "dist": "Kohima",
+    "litrate": 85.23,
+    "sexratio": 928,
+    "area": 1463,
+    "popdensity": 183,
+    "workpoprate": 42.85
+  },
+  {
+    "dist": "Zunheboto",
+    "litrate": 85.26,
+    "sexratio": 976,
+    "area": 1255,
+    "popdensity": 112,
+    "workpoprate": 56.46
+  },
+  {
+    "dist": "Ahmadabad",
+    "litrate": 85.31,
+    "sexratio": 904,
+    "area": 8107,
+    "popdensity": 890,
+    "workpoprate": 35.97
+  },
+  {
+    "dist": "Puducherry",
+    "litrate": 85.44,
+    "sexratio": 1029,
+    "area": 294,
+    "popdensity": 3232,
+    "workpoprate": 36.63
+  },
+  {
+    "dist": "Cuttack",
+    "litrate": 85.5,
+    "sexratio": 940,
+    "area": 3932,
+    "popdensity": 667,
+    "workpoprate": 35.68
+  },
+  {
+    "dist": "Surat",
+    "litrate": 85.53,
+    "sexratio": 787,
+    "area": 4549,
+    "popdensity": 1337,
+    "workpoprate": 41.99
+  },
+  {
+    "dist": "Sindhudurg",
+    "litrate": 85.56,
+    "sexratio": 1036,
+    "area": 5207,
+    "popdensity": 163,
+    "workpoprate": 40.86
+  },
+  {
+    "dist": "Kangra",
+    "litrate": 85.67,
+    "sexratio": 1012,
+    "area": 5739,
+    "popdensity": 263,
+    "workpoprate": 44.71
+  },
+  {
+    "dist": "Dhalai",
+    "litrate": 85.72,
+    "sexratio": 944,
+    "area": 2400,
+    "popdensity": 158,
+    "workpoprate": 41.2
+  },
+  {
+    "dist": "Chandigarh",
+    "litrate": 86.05,
+    "sexratio": 818,
+    "area": 114,
+    "popdensity": 9258,
+    "workpoprate": 38.29
+  },
+  {
+    "dist": "Imphal West",
+    "litrate": 86.08,
+    "sexratio": 1031,
+    "area": 519,
+    "popdensity": 998,
+    "workpoprate": 41.2
+  },
+  {
+    "dist": "Pune",
+    "litrate": 86.15,
+    "sexratio": 915,
+    "area": 15643,
+    "popdensity": 603,
+    "workpoprate": 42.94
+  },
+  {
+    "dist": "Thoothukkudi",
+    "litrate": 86.16,
+    "sexratio": 1023,
+    "area": 4745,
+    "popdensity": 369,
+    "workpoprate": 42.74
+  },
+  {
+    "dist": "Udupi",
+    "litrate": 86.24,
+    "sexratio": 1094,
+    "area": 3582,
+    "popdensity": 329,
+    "workpoprate": 43.59
+  },
+  {
+    "dist": "Kolkata",
+    "litrate": 86.31,
+    "sexratio": 908,
+    "area": 185,
+    "popdensity": 24306,
+    "workpoprate": 39.93
+  },
+  {
+    "dist": "Una",
+    "litrate": 86.53,
+    "sexratio": 976,
+    "area": 1540,
+    "popdensity": 338,
+    "workpoprate": 41.32
+  },
+  {
+    "dist": "South",
+    "litrate": 86.57,
+    "sexratio": 862,
+    "area": 247,
+    "popdensity": 11060,
+    "workpoprate": 33.84
+  },
+  {
+    "dist": "Jagatsinghapur",
+    "litrate": 86.59,
+    "sexratio": 968,
+    "area": 1668,
+    "popdensity": 682,
+    "workpoprate": 35.5
+  },
+  {
+    "dist": "North",
+    "litrate": 86.85,
+    "sexratio": 869,
+    "area": 61,
+    "popdensity": 14557,
+    "workpoprate": 33.38
+  },
+  {
+    "dist": "Khordha",
+    "litrate": 86.88,
+    "sexratio": 929,
+    "area": 2813,
+    "popdensity": 800,
+    "workpoprate": 35.18
+  },
+  {
+    "dist": "West",
+    "litrate": 86.98,
+    "sexratio": 875,
+    "area": 130,
+    "popdensity": 19563,
+    "workpoprate": 34.38
+  },
+  {
+    "dist": "Wardha",
+    "litrate": 86.99,
+    "sexratio": 946,
+    "area": 6309,
+    "popdensity": 206,
+    "workpoprate": 46.76
+  },
+  {
+    "dist": "Purba Medinipur",
+    "litrate": 87.02,
+    "sexratio": 938,
+    "area": 4713,
+    "popdensity": 1081,
+    "workpoprate": 37.49
+  },
+  {
+    "dist": "Karaikal",
+    "litrate": 87.05,
+    "sexratio": 1047,
+    "area": 157,
+    "popdensity": 1275,
+    "workpoprate": 34.11
+  },
+  {
+    "dist": "Amravati",
+    "litrate": 87.38,
+    "sexratio": 951,
+    "area": 12210,
+    "popdensity": 237,
+    "workpoprate": 42.8
+  },
+  {
+    "dist": "North Tripura",
+    "litrate": 87.5,
+    "sexratio": 967,
+    "area": 2036,
+    "popdensity": 341,
+    "workpoprate": 35.83
+  },
+  {
+    "dist": "South Goa",
+    "litrate": 87.59,
+    "sexratio": 986,
+    "area": 1966,
+    "popdensity": 326,
+    "workpoprate": 38.97
+  },
+  {
+    "dist": "Bangalore",
+    "litrate": 87.67,
+    "sexratio": 916,
+    "area": 2196,
+    "popdensity": 4381,
+    "workpoprate": 44.14
+  },
+  {
+    "dist": "Wokha",
+    "litrate": 87.69,
+    "sexratio": 968,
+    "area": 1628,
+    "popdensity": 102,
+    "workpoprate": 47.14
+  },
+  {
+    "dist": "Akola",
+    "litrate": 88.05,
+    "sexratio": 946,
+    "area": 5676,
+    "popdensity": 320,
+    "workpoprate": 42.35
+  },
+  {
+    "dist": "Daman",
+    "litrate": 88.07,
+    "sexratio": 534,
+    "area": 72,
+    "popdensity": 2655,
+    "workpoprate": 55.2
+  },
+  {
+    "dist": "Hamirpur",
+    "litrate": 88.15,
+    "sexratio": 1095,
+    "area": 1118,
+    "popdensity": 407,
+    "workpoprate": 53.2
+  },
+  {
+    "dist": "South West",
+    "litrate": 88.28,
+    "sexratio": 840,
+    "area": 421,
+    "popdensity": 5446,
+    "workpoprate": 34.69
+  },
+  {
+    "dist": "New Delhi",
+    "litrate": 88.34,
+    "sexratio": 822,
+    "area": 35,
+    "popdensity": 4057,
+    "workpoprate": 41.93
+  },
+  {
+    "dist": "Nagpur",
+    "litrate": 88.39,
+    "sexratio": 951,
+    "area": 9892,
+    "popdensity": 470,
+    "workpoprate": 40.15
+  },
+  {
+    "dist": "Dakshina Kannada",
+    "litrate": 88.57,
+    "sexratio": 1020,
+    "area": 4861,
+    "popdensity": 430,
+    "workpoprate": 47.75
+  },
+  {
+    "dist": "West Tripura",
+    "litrate": 88.69,
+    "sexratio": 962,
+    "area": 2993,
+    "popdensity": 577,
+    "workpoprate": 40.46
+  },
+  {
+    "dist": "Kamrup Metropolitan",
+    "litrate": 88.71,
+    "sexratio": 936,
+    "area": 955,
+    "popdensity": 1313,
+    "workpoprate": 39.15
+  },
+  {
+    "dist": "Lunglei",
+    "litrate": 88.86,
+    "sexratio": 947,
+    "area": 4536,
+    "popdensity": 36,
+    "workpoprate": 48.5
+  },
+  {
+    "dist": "Wayanad",
+    "litrate": 89.03,
+    "sexratio": 1035,
+    "area": 2130,
+    "popdensity": 384,
+    "workpoprate": 41.6
+  },
+  {
+    "dist": "South Andaman",
+    "litrate": 89.13,
+    "sexratio": 871,
+    "area": 2672,
+    "popdensity": 89,
+    "workpoprate": 40.66
+  },
+  {
+    "dist": "Mumbai",
+    "litrate": 89.21,
+    "sexratio": 832,
+    "area": 157,
+    "popdensity": 19652,
+    "workpoprate": 41.63
+  },
+  {
+    "dist": "East",
+    "litrate": 89.31,
+    "sexratio": 884,
+    "area": 63,
+    "popdensity": 27132,
+    "workpoprate": 33.91
+  },
+  {
+    "dist": "Palakkad",
+    "litrate": 89.31,
+    "sexratio": 1067,
+    "area": 4482,
+    "popdensity": 627,
+    "workpoprate": 37.09
+  },
+  {
+    "dist": "North Goa",
+    "litrate": 89.57,
+    "sexratio": 963,
+    "area": 1736,
+    "popdensity": 471,
+    "workpoprate": 40.06
+  },
+  {
+    "dist": "Mumbai Suburban",
+    "litrate": 89.91,
+    "sexratio": 860,
+    "area": 446,
+    "popdensity": 20980,
+    "workpoprate": 39.92
+  },
+  {
+    "dist": "Saiha",
+    "litrate": 90.01,
+    "sexratio": 979,
+    "area": 1399,
+    "popdensity": 40,
+    "workpoprate": 34.4
+  },
+  {
+    "dist": "Kasaragod",
+    "litrate": 90.09,
+    "sexratio": 1080,
+    "area": 1989,
+    "popdensity": 657,
+    "workpoprate": 35.41
+  },
+  {
+    "dist": "Chennai",
+    "litrate": 90.18,
+    "sexratio": 989,
+    "area": 175,
+    "popdensity": 26553,
+    "workpoprate": 39.11
+  },
+  {
+    "dist": "Mokokchung",
+    "litrate": 91.62,
+    "sexratio": 925,
+    "area": 1615,
+    "popdensity": 121,
+    "workpoprate": 51.42
+  },
+  {
+    "dist": "Kanniyakumari",
+    "litrate": 91.75,
+    "sexratio": 1019,
+    "area": 1684,
+    "popdensity": 1111,
+    "workpoprate": 36.34
+  },
+  {
+    "dist": "Lakshadweep",
+    "litrate": 91.85,
+    "sexratio": 946,
+    "area": 30,
+    "popdensity": 2149,
+    "workpoprate": 29.09
+  },
+  {
+    "dist": "Idukki",
+    "litrate": 91.99,
+    "sexratio": 1006,
+    "area": 4356,
+    "popdensity": 255,
+    "workpoprate": 46.56
+  },
+  {
+    "dist": "Thiruvananthapuram",
+    "litrate": 93.02,
+    "sexratio": 1087,
+    "area": 2189,
+    "popdensity": 1508,
+    "workpoprate": 37.31
+  },
+  {
+    "dist": "Kolasib",
+    "litrate": 93.5,
+    "sexratio": 956,
+    "area": 1382,
+    "popdensity": 61,
+    "workpoprate": 43.68
+  },
+  {
+    "dist": "Malappuram",
+    "litrate": 93.57,
+    "sexratio": 1098,
+    "area": 3554,
+    "popdensity": 1157,
+    "workpoprate": 25.83
+  },
+  {
+    "dist": "Kollam",
+    "litrate": 94.09,
+    "sexratio": 1113,
+    "area": 2483,
+    "popdensity": 1061,
+    "workpoprate": 34.61
+  },
+  {
+    "dist": "Kozhikode",
+    "litrate": 95.08,
+    "sexratio": 1098,
+    "area": 2345,
+    "popdensity": 1316,
+    "workpoprate": 30.75
+  },
+  {
+    "dist": "Thrissur",
+    "litrate": 95.08,
+    "sexratio": 1108,
+    "area": 3027,
+    "popdensity": 1031,
+    "workpoprate": 35.11
+  },
+  {
+    "dist": "Kannur",
+    "litrate": 95.1,
+    "sexratio": 1136,
+    "area": 2961,
+    "popdensity": 852,
+    "workpoprate": 32.66
+  },
+  {
+    "dist": "Alappuzha",
+    "litrate": 95.72,
+    "sexratio": 1100,
+    "area": 1415,
+    "popdensity": 1504,
+    "workpoprate": 37.81
+  },
+  {
+    "dist": "Ernakulam",
+    "litrate": 95.89,
+    "sexratio": 1027,
+    "area": 3063,
+    "popdensity": 1072,
+    "workpoprate": 38.06
+  },
+  {
+    "dist": "Champhai",
+    "litrate": 95.91,
+    "sexratio": 984,
+    "area": 3185,
+    "popdensity": 39,
+    "workpoprate": 47.99
+  },
+  {
+    "dist": "Pathanamthitta",
+    "litrate": 96.55,
+    "sexratio": 1132,
+    "area": 2652,
+    "popdensity": 452,
+    "workpoprate": 32.8
+  },
+  {
+    "dist": "Kottayam",
+    "litrate": 97.21,
+    "sexratio": 1039,
+    "area": 2206,
+    "popdensity": 895,
+    "workpoprate": 37.26
+  },
+  {
+    "dist": "Mahe",
+    "litrate": 97.87,
+    "sexratio": 1184,
+    "area": 9,
+    "popdensity": 4646,
+    "workpoprate": 28.22
+  },
+  {
+    "dist": "Aizawl",
+    "litrate": 97.89,
+    "sexratio": 1009,
+    "area": 3576,
+    "popdensity": 112,
+    "workpoprate": 43.63
+  },
+  {
+    "dist": "Serchhip",
+    "litrate": 97.91,
+    "sexratio": 977,
+    "area": 1421,
+    "popdensity": 46,
+    "workpoprate": 49.89
+  }
+]
